@@ -10,26 +10,26 @@ Documents to collect for analysis of the UK's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| AI Opportunities Action Plan | Jan 2025 | DSIT (Matt Clifford) | Needed |
-| AI Opportunities Action Plan: One Year On | Jan 2026 | DSIT | Needed |
+| AI Opportunities Action Plan | Jan 2025 | DSIT (Matt Clifford) | Collected |
+| AI Opportunities Action Plan: One Year On | Jan 2026 | DSIT | Collected |
 | National AI Strategy (precursor) | Sep 2021 | DCMS | Lower priority |
-| AI for Science Strategy | Nov 2025 | DSIT | Needed |
-| Generative AI Framework / AI Playbook for UK Government | Feb 2025 | CDDO / Cabinet Office | Needed |
+| AI for Science Strategy | Nov 2025 | DSIT | Collected |
+| Generative AI Framework / AI Playbook for UK Government | Feb 2025 | CDDO / Cabinet Office | Collected |
 
 ## Pro-Innovation Regulatory Framework
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| A Pro-Innovation Approach to AI Regulation (White Paper) | Mar 2023 | DSIT | Needed |
-| Pro-Innovation Approach: Government Response | Feb 2024 | DSIT | Needed |
+| A Pro-Innovation Approach to AI Regulation (White Paper) | Mar 2023 | DSIT | Collected (HTML only — converted to markdown) |
+| Pro-Innovation Approach: Government Response to Consultation | Feb 2024 | DSIT | Collected |
 | Regulators' Strategic Approaches to AI (various) | 2023–25 | FCA, Ofcom, CMA, ICO, MHRA, etc. | Lower priority |
 
 ## AI Safety Institute
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| AISI Approach to Safety Evaluations | Feb 2024 | AI Safety Institute | Needed |
-| International Scientific Report on the Safety of Advanced AI | May 2024 | AISI (Yoshua Bengio) | Needed |
+| AISI Approach to Safety Evaluations | Feb 2024 | AI Safety Institute | Collected (markdown) |
+| International Scientific Report on the Safety of Advanced AI | May 2024 | AISI (Yoshua Bengio) | Collected |
 | Inspect Framework (open-source evaluation platform) | 2024 | AISI | Lower priority |
 
 ## Legislative Activity
@@ -52,7 +52,7 @@ Documents to collect for analysis of the UK's AI governance landscape.
 |----------|------|-------------|--------|
 | MHRA AI/ML Software as Medical Device guidance | 2024–25 | MHRA | Lower priority |
 | FCA Feedback Statement on AI | Oct 2024 | FCA | Needed |
-| CMA AI Foundation Models Report | Sep 2023 | CMA | Needed |
+| CMA AI Foundation Models Report | Sep 2023 | CMA | Collected |
 | ICO Guidance on AI and Data Protection | 2023–25 | ICO | Lower priority |
 
 ## Compute and Infrastructure
