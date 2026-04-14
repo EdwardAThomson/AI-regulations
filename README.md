@@ -6,13 +6,15 @@ Each country directory contains source documents and analysis covering the full 
 
 ## Countries
 
+Each country directory contains its own README with an overview, source inventory, and links to analysis files.
+
 | Country | Status | Focus areas |
 |---------|--------|-------------|
-| [EU](EU/) | Planned | EU AI Act, regulatory framework |
-| [Singapore](Singapore/) | In progress | Model AI Governance Framework for Agentic AI (IMDA) |
-| [Switzerland](Switzerland/) | Planned | — |
-| [UK](UK/) | In progress | AI Opportunities Action Plan, AI for Science Strategy, AI Playbook |
-| [USA](USA/) | Planned | — |
+| [EU](EU/README.md) | Sources collected | EU AI Act (Regulation 2024/1689), GPAI Code of Practice, AI Office guidelines |
+| [Singapore](Singapore/README.md) | Analysis in progress | Model AI Governance Frameworks (base / GenAI / Agentic AI), ASEAN Guide |
+| [Switzerland](Switzerland/README.md) | Sources partially collected | Federal Council approach (no standalone AI law), FINMA, data protection |
+| [UK](UK/README.md) | Analysis complete | Pro-Innovation framework, AI Opportunities Action Plan, AISI, Playbook (10 reviews) |
+| [USA](USA/README.md) | Sources collected | Biden EO 14110, Trump EO (Jan 2025), NIST AI RMF, state-level patchwork |
 
 ## Methodology
 
@@ -41,22 +43,35 @@ The goal is to understand not just what a country has published, but how its var
 ## Repository Structure
 
 ```
-methodology.md              # Shared assessment framework
+methodology.md                 # Shared assessment framework
+README.md                      # This file
 EU/
-  source/                   # Source documents (PDFs, official publications)
-  analysis/                 # Reviews, assessments, and findings
+  README.md                    # Country overview + index of contents
+  source/                      # Source documents
+    inventory.md               # Tracked document list
+  analysis/                    # Reviews, assessments, and findings
 Singapore/
-  source/                   # Source documents
-  analysis/                 # Reviews, assessments, and findings
+  README.md                    # Country overview + index of contents
+  source/
+    inventory.md
+  analysis/
 Switzerland/
-  source/                   # Source documents
-  analysis/                 # Reviews, assessments, and findings
+  README.md                    # Country overview + index of contents
+  source/
+    inventory.md
+  analysis/
 UK/
-  source/                   # Source documents
-  analysis/                 # Reviews, assessments, and findings
+  README.md                    # Country overview + index of contents
+  source/
+    inventory.md
+  analysis/
+    UK-Scotland-comparison.md  # Cross-references Scotland's AI Strategy review
+    review-claude/             # Section-level Claude reviews
 USA/
-  source/                   # Source documents
-  analysis/                 # Reviews, assessments, and findings
+  README.md                    # Country overview + index of contents
+  source/
+    inventory.md
+  analysis/
 ```
 
 ## Related
