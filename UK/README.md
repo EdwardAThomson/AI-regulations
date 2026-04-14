@@ -55,32 +55,34 @@ Currently collected sources (14 documents):
 
 ### Section-level reviews — [`analysis/review-claude/`](analysis/review-claude/)
 
-Fourteen document-level reviews following the structure set out in [`../methodology.md`](../methodology.md) (summary, key points, observations across analytical lenses, overall assessment):
+Fourteen document-level reviews following the structure set out in [`../methodology.md`](../methodology.md) (summary, key points, observations across analytical lenses, overall assessment).
 
-| # | Review | Source document |
-|---|--------|-----------------|
-| 01 | [AI Opportunities Action Plan](analysis/review-claude/01-ai-opportunities-action-plan.md) | January 2025 |
-| 02 | [Pro-Innovation Regulation: Consultation Response](analysis/review-claude/02-pro-innovation-regulation-consultation-response.md) | February 2024 |
-| 03 | [Pro-Innovation White Paper](analysis/review-claude/03-pro-innovation-white-paper.md) | March 2023 |
-| 04 | [AI Opportunities Action Plan: One Year On](analysis/review-claude/04-ai-opportunities-action-plan-one-year-on.md) | January 2026 |
-| 05 | [AI Opportunities Action Plan: Government Response](analysis/review-claude/05-ai-opportunities-action-plan-govt-response.md) | January 2025 |
-| 06 | [AI for Science Strategy](analysis/review-claude/06-ai-for-science-strategy.md) | November 2025 |
-| 07 | [AI Playbook for UK Government](analysis/review-claude/07-ai-playbook-uk-government.md) | February 2025 |
-| 08 | [AISI Approach to Evaluations](analysis/review-claude/08-aisi-approach-to-evaluations.md) | February 2024 |
-| 09 | [CMA AI Foundation Models: Initial Report](analysis/review-claude/09-cma-ai-foundation-models-initial-report.md) | September 2023 |
-| 10 | [International Scientific Report on Safety of Advanced AI](analysis/review-claude/10-international-scientific-report-safety-advanced-ai.md) | May 2024 |
-| 11 | [Future of Compute Review](analysis/review-claude/11-future-of-compute-review.md) | March 2023 |
-| 12 | [FCA AI Update](analysis/review-claude/12-fca-ai-update.md) | April 2024 |
-| 13 | [Delivering AI Growth Zones](analysis/review-claude/13-delivering-ai-growth-zones.md) | November 2025 |
-| 14 | [Data (Use and Access) Act 2025](analysis/review-claude/14-data-use-and-access-act.md) | June 2025 |
+**Note on numbering:** File numbers (`01-` through `14-`) reflect the order in which reviews were produced, not the publication date of the source document. The table below is sorted chronologically by the source document's publication date, with the file number shown in the first column.
+
+| # | Date | Review |
+|---|------|--------|
+| 03 | Mar 2023 | [Pro-Innovation White Paper](analysis/review-claude/03-pro-innovation-white-paper.md) |
+| 11 | Mar 2023 | [Future of Compute Review](analysis/review-claude/11-future-of-compute-review.md) |
+| 09 | Sep 2023 | [CMA AI Foundation Models: Initial Report](analysis/review-claude/09-cma-ai-foundation-models-initial-report.md) |
+| 02 | Feb 2024 | [Pro-Innovation Regulation: Consultation Response](analysis/review-claude/02-pro-innovation-regulation-consultation-response.md) |
+| 08 | Feb 2024 | [AISI Approach to Evaluations](analysis/review-claude/08-aisi-approach-to-evaluations.md) |
+| 12 | Apr 2024 | [FCA AI Update](analysis/review-claude/12-fca-ai-update.md) |
+| 10 | May 2024 | [International Scientific Report on Safety of Advanced AI](analysis/review-claude/10-international-scientific-report-safety-advanced-ai.md) |
+| 01 | Jan 2025 | [AI Opportunities Action Plan](analysis/review-claude/01-ai-opportunities-action-plan.md) |
+| 05 | Jan 2025 | [AI Opportunities Action Plan: Government Response](analysis/review-claude/05-ai-opportunities-action-plan-govt-response.md) |
+| 07 | Feb 2025 | [AI Playbook for UK Government](analysis/review-claude/07-ai-playbook-uk-government.md) |
+| 14 | Jun 2025 | [Data (Use and Access) Act 2025](analysis/review-claude/14-data-use-and-access-act.md) |
+| 06 | Nov 2025 | [AI for Science Strategy](analysis/review-claude/06-ai-for-science-strategy.md) |
+| 13 | Nov 2025 | [Delivering AI Growth Zones](analysis/review-claude/13-delivering-ai-growth-zones.md) |
+| 04 | Jan 2026 | [AI Opportunities Action Plan: One Year On](analysis/review-claude/04-ai-opportunities-action-plan-one-year-on.md) |
 
 ### Cross-country comparison
 
-- [**UK vs Scotland comparison**](analysis/UK-Scotland-comparison.md) — cross-references the 10 UK reviews with the three-LLM review of Scotland's AI Strategy 2026-2031 in the sibling [AI_Scotland repository](https://github.com/EdwardAThomson/AI_Scotland). Identifies substantive divergences (regulatory philosophy, measurability, operational depth), shared weaknesses (economy-first framing, institutional machinery without results), and structural constraints (reserved vs devolved competences).
+- [**UK vs Scotland comparison**](analysis/UK-Scotland-comparison.md) — cross-references the 14 UK reviews with the three-LLM review of Scotland's AI Strategy 2026-2031 in the sibling [AI_Scotland repository](https://github.com/EdwardAThomson/AI_Scotland). Identifies substantive divergences (regulatory philosophy, measurability, operational depth), shared weaknesses (economy-first framing, institutional machinery without results), and structural constraints (reserved vs devolved competences).
 
 ## Key findings across the UK landscape
 
-The ten reviews together surface several persistent tensions in the UK's AI governance position:
+The fourteen reviews together surface several persistent tensions in the UK's AI governance position:
 
 1. **Voluntary vs binding.** The regulatory framework is explicitly non-statutory. The January 2025 Government Response committed to establishing AISI as a statutory body; as of the January 2026 progress report, this remained undelivered.
 
