@@ -13,9 +13,8 @@ UK/
 │   ├── inventory.md                   # Tracked list of documents to collect
 │   └── [source documents]
 └── analysis/                          # Reviews and cross-country comparison
-    ├── ai-strategy-summary-from-claude.md
     ├── UK-Scotland-comparison.md      # UK vs Scotland governance comparison
-    └── review-claude/                 # Claude section-level reviews (10 docs)
+    └── review-claude/                 # Claude section-level reviews (14 docs)
 ```
 
 ## Sources
@@ -78,10 +77,6 @@ Fourteen document-level reviews following the structure set out in [`../methodol
 ### Cross-country comparison
 
 - [**UK vs Scotland comparison**](analysis/UK-Scotland-comparison.md) — cross-references the 10 UK reviews with the three-LLM review of Scotland's AI Strategy 2026-2031 in the sibling [AI_Scotland repository](https://github.com/EdwardAThomson/AI_Scotland). Identifies substantive divergences (regulatory philosophy, measurability, operational depth), shared weaknesses (economy-first framing, institutional machinery without results), and structural constraints (reserved vs devolved competences).
-
-### Earlier summary
-
-- [`ai-strategy-summary-from-claude.md`](analysis/ai-strategy-summary-from-claude.md) — initial summary produced before the section-level review programme began.
 
 ## Key findings across the UK landscape
 
