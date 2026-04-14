@@ -44,7 +44,7 @@ This is the UK Government's detailed policy paper on delivering the AI Growth Zo
 - Review point in 2030
 - Exemption from portion of electricity system costs
 - "No additional cost for other electricity billpayers"
-- Rebalances investment to regions with available clean energy — addresses constraint cost problem (Scottish wind generation exceeding grid transmission capacity)
+- Rebalances investment to regions with available clean energy — addresses constraint cost problem (Scottish wind generation exceeding grid transmission capacity). Scotland produced 38.4 TWh of renewable electricity in 2024, a record high, supporting the business case for Scottish data centre siting
 
 ### Planning Reform (Chapter 4)
 

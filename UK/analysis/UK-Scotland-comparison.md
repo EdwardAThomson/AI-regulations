@@ -1,6 +1,6 @@
 # UK vs Scotland: AI Governance Comparison
 
-A comparison of the UK's AI governance position (as analysed in 10 document reviews in this repo) with Scotland's AI Strategy 2026-2031 (analysed separately in the [AI_Scotland repository](https://github.com/EdwardAThomson/AI_Scotland)).
+A comparison of the UK's AI governance position (as analysed in 14 document reviews in this repo) with Scotland's AI Strategy 2026-2031 (analysed separately in the [AI_Scotland repository](https://github.com/EdwardAThomson/AI_Scotland)).
 
 Constitutional context matters here: Scotland is a devolved nation of the UK, so these are not independent jurisdictions. Many AI-relevant powers (competition, consumer protection, data protection, financial regulation, immigration, AI safety, international governance) are reserved to Westminster. Scotland operates on devolved competences (health, education, policing, skills, economic development) within a UK-wide regulatory frame.
 
@@ -10,7 +10,7 @@ Constitutional context matters here: Scotland is a devolved nation of the UK, so
 
 | Dimension | UK | Scotland |
 |-----------|----|---------| 
-| **Number of governance documents** | 10 substantive documents (reviewed here) | 1 strategy document (plus earlier 2021 strategy) |
+| **Number of governance documents** | 14 substantive documents (reviewed here) | 1 strategy document (plus earlier 2021 strategy) |
 | **Flagship strategy** | AI Opportunities Action Plan (50 recommendations) + Government Response with timelines + One Year On progress report | AI Strategy 2026-2031 (AI Stack model, 8 layers, 10 actions) |
 | **Regulatory framework** | Pro-Innovation White Paper + Feb 2024 Consultation Response | Section 8 of the strategy (regulation as one of 8 AI Stack layers) |
 | **Operational guidance** | AI Playbook (118 pages, 10 principles, extensive ethics/security detail) | None |
@@ -192,5 +192,6 @@ The most interesting divergence is the regulatory posture. Scotland's explicit a
 
 ## Sources for this comparison
 
-- UK: the 10 review documents in [`UK/analysis/review-claude/`](UK/analysis/review-claude/)
+- UK: the 14 review documents in [`review-claude/`](review-claude/)
+- UK Government AI delivery tracker: https://delivery.ai.gov.uk/
 - Scotland: [`AI_Scotland` repository](https://github.com/EdwardAThomson/AI_Scotland) — particularly [`review-reconciliation/summary.md`](https://github.com/EdwardAThomson/AI_Scotland/blob/main/review-reconciliation/summary.md) and [`review-reconciliation/01-consensus-findings.md`](https://github.com/EdwardAThomson/AI_Scotland/blob/main/review-reconciliation/01-consensus-findings.md)
