@@ -22,7 +22,7 @@ UK/
 
 See [`source/inventory.md`](source/inventory.md) for the full inventory of documents targeted, with collection status.
 
-Currently collected sources (10 documents):
+Currently collected sources (14 documents):
 
 ### Core strategy
 - **AI Opportunities Action Plan** (January 2025) — the flagship strategy authored by Matt Clifford with 50 recommendations
@@ -39,6 +39,14 @@ Currently collected sources (10 documents):
 ### Sector-specific
 - **AI for Science Strategy** (November 2025) — dedicated strategy for AI in research with 137M GBP budget, 5 priority areas, and a drug discovery mission
 - **CMA AI Foundation Models: Initial Report** (September 2023) — 129-page competition analysis with 7 principles for market development
+- **FCA AI Update** (April 2024) — Financial Conduct Authority's mapping of the government's 5 principles onto existing FCA regulatory frameworks (Principles for Business, SYSC, SM&CR, Consumer Duty)
+
+### Compute and infrastructure
+- **Future of Compute Review** (March 2023) — independent review chaired by Professor Zoubin Ghahramani; 10 recommendations including AIRR establishment and exascale delivery by 2026. Foundational for subsequent UK compute policy
+- **Delivering AI Growth Zones** (November 2025, CP 1440) — detailed operational policy paper on AIGZ implementation across grid, pricing, planning, and investment environment
+
+### Legislation
+- **Data (Use and Access) Act 2025** (Royal Assent June 2025) — the most AI-relevant primary legislation; relaxes Article 22 UK GDPR restrictions on solely automated decision-making, introduces Recognised Legitimate Interests, clarifies scientific research scope
 
 ### Safety research
 - **AI Safety Institute: Approach to Evaluations** (February 2024) — AISI's first public account of its evaluation methodology
@@ -48,7 +56,7 @@ Currently collected sources (10 documents):
 
 ### Section-level reviews — [`analysis/review-claude/`](analysis/review-claude/)
 
-Ten document-level reviews following the structure set out in [`../methodology.md`](../methodology.md) (summary, key points, observations across analytical lenses, overall assessment):
+Fourteen document-level reviews following the structure set out in [`../methodology.md`](../methodology.md) (summary, key points, observations across analytical lenses, overall assessment):
 
 | # | Review | Source document |
 |---|--------|-----------------|
@@ -62,6 +70,10 @@ Ten document-level reviews following the structure set out in [`../methodology.m
 | 08 | [AISI Approach to Evaluations](analysis/review-claude/08-aisi-approach-to-evaluations.md) | February 2024 |
 | 09 | [CMA AI Foundation Models: Initial Report](analysis/review-claude/09-cma-ai-foundation-models-initial-report.md) | September 2023 |
 | 10 | [International Scientific Report on Safety of Advanced AI](analysis/review-claude/10-international-scientific-report-safety-advanced-ai.md) | May 2024 |
+| 11 | [Future of Compute Review](analysis/review-claude/11-future-of-compute-review.md) | March 2023 |
+| 12 | [FCA AI Update](analysis/review-claude/12-fca-ai-update.md) | April 2024 |
+| 13 | [Delivering AI Growth Zones](analysis/review-claude/13-delivering-ai-growth-zones.md) | November 2025 |
+| 14 | [Data (Use and Access) Act 2025](analysis/review-claude/14-data-use-and-access-act.md) | June 2025 |
 
 ### Cross-country comparison
 

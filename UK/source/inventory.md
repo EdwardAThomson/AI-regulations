@@ -36,7 +36,7 @@ Documents to collect for analysis of the UK's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| Data Use and Access Bill | 2024–26 | DSIT | Needed |
+| Data (Use and Access) Act 2025 | Royal Assent Jun 2025 | DSIT / Parliament | Collected (markdown — guidance summary) |
 | Digital Markets, Competition and Consumers Act 2024 | May 2024 | Parliament / CMA | Lower priority |
 
 ## DSIT Guidance
@@ -51,7 +51,7 @@ Documents to collect for analysis of the UK's AI governance landscape.
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
 | MHRA AI/ML Software as Medical Device guidance | 2024–25 | MHRA | Lower priority |
-| FCA Feedback Statement on AI | Oct 2024 | FCA | Needed |
+| FCA AI Update | Apr 2024 | FCA | Collected |
 | CMA AI Foundation Models Report | Sep 2023 | CMA | Collected |
 | ICO Guidance on AI and Data Protection | 2023–25 | ICO | Lower priority |
 
@@ -59,8 +59,8 @@ Documents to collect for analysis of the UK's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| Future of Compute Review | Mar 2023 | DSIT (Zoubin Ghahramani) | Needed |
-| AI Growth Zones announcement | Jan 2026 | DSIT | Needed |
+| Future of Compute Review | Mar 2023 | DSIT (Zoubin Ghahramani) | Collected |
+| Delivering AI Growth Zones (policy paper) | Nov 2025 | DSIT | Collected |
 
 ## International Positioning
 
