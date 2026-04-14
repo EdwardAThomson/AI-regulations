@@ -22,7 +22,12 @@ Constitutional context matters here: Scotland is a devolved nation of the UK, so
 | **Infrastructure commitments** | Isambard-AI (Bristol), DAWN (Cambridge), EPCC (Edinburgh), Archer2 extension, AIRR expansion 20x by 2030 | None — grid infrastructure identified as dependency on UK-reserved powers |
 | **Specific compute investment** | 750M GBP for next national supercomputer, 250M for AIRR scaling | None named |
 | **Major funding commitments** | 240M (AISI), 500M (Sovereign AI Unit), 100M+ (National Data Library), 187M (TechFirst), 600M (Health Data Research Service), 2B+ total for AI 2026-2030 | 1M GBP SME AI Adoption Programme (reaches 0.14% of SME base); no budgets attached to other actions |
-| **AI Growth Zones** | 5 designated (2 Wales, 1 Scotland, 2 England); 28.2B GBP investment generated | One Scottish AI Growth Zone exists (via UK Government designation) |
+| **AI Growth Zones** | 5 designated (2 Wales, 1 Scotland, 2 England); 28.2B GBP investment generated. *Delivering AI Growth Zones* policy paper (Nov 2025, CP 1440) specifies grid reform, planning reform, regional pricing support, and AIGZ Delivery Unit launching Jan 2026 | One Scottish AI Growth Zone exists (via UK Government designation); Scotland gets largest regional pricing support (24 GBP/MWh discount vs 16 Cumbria, 14 North East) |
+| **Compute trajectory** | 2 ExaFLOPs (2024) → 21 ExaFLOPs (2025) → targeted 420 ExaFLOPs by 2030 via 20x AIRR expansion. Independent *Future of Compute Review* (Ghahramani, Mar 2023) provides the 10-recommendation foundation | Leverages UK compute via EPCC Edinburgh as UK infrastructure; no Scottish-specific compute commitments or independent review |
+| **Sector-regulator AI response** | *FCA AI Update* (Apr 2024) — detailed mapping of government's 5 principles onto existing financial services framework (Principles for Business, SYSC, SM&CR, Consumer Duty, CTP regime). No AI-specific rules added — technology-agnostic supervision | None — financial services regulation is reserved to UK |
+| **AI-relevant legislation** | *Data (Use and Access) Act 2025* (Royal Assent Jun 2025) — relaxes Article 22 UK GDPR on solely automated decisions; introduces Recognised Legitimate Interests; clarifies scientific research scope. Diverges from EU AI Act direction of travel | None — data protection is reserved; Scotland subject to UK-wide DUAA |
+| **VC ecosystem** | ~6 billion GBP raised by UK-domestic AI firms in 2025; third-largest global AI market | Scottish-headquartered AI firms benefit from UK ecosystem but no Scotland-specific VC data in strategy |
+| **Renewable advantage** | Benefits from UK-wide grid; AI Growth Zones use UK-wide pricing support | Scotland produced 38.4 TWh renewable electricity in 2024 (record high) — material advantage for data centre siting, reflected in 24 GBP/MWh pricing support |
 
 ---
 
@@ -36,6 +41,10 @@ The most consequential difference: **Scotland advocates EU AI Act alignment; the
 - Scotland position: Advocates alignment with EU AI Act on market access grounds; supports putting OECD principles on a statutory footing. The three-LLM review called this the "most politically significant" section of the Scottish strategy.
 
 Scotland cannot deliver this position unilaterally — regulation is largely reserved to the UK. But the divergent stated preference indicates different political philosophies: Scotland's strategy is explicitly EU-oriented, the UK's is explicitly distinctive-from-EU.
+
+**The DUAA 2025 has now operationalised UK pro-innovation divergence.** The Data (Use and Access) Act 2025 (Royal Assent June 2025) materially relaxes UK restrictions on solely automated decision-making — replacing the Article 22 UK GDPR prohibition with a permit-with-safeguards model. The EU AI Act is moving in the opposite direction, strengthening oversight for high-risk AI systems. The UK-EU regulatory gap on AI is now enacted in law, not just policy framing. Scotland's advocacy for EU alignment faces a harder barrier than before: the UK position is no longer just a preference but a live statutory divergence that applies across the UK including Scotland.
+
+**Sector regulators are operating the UK model in practice.** The FCA AI Update (April 2024) demonstrates the sector-regulator approach in action — mapping existing frameworks to the government's 5 principles, reserving discretion on adaptation, committing to continued monitoring and international engagement without AI-specific rule-making. Scotland has no equivalent sector-regulator documents because financial services regulation, data protection, competition, and most other AI-adjacent supervisory areas are reserved.
 
 ### Measurability
 
@@ -130,6 +139,14 @@ The UK's position has evolved from voluntary-only (Pro-Innovation White Paper, 2
 
 **Has detailed competition analysis.** The CMA's 129-page foundation models report provides market-structure analysis that no Scottish document approaches. This reflects reserved powers: competition policy is UK-wide, CMA is UK-wide, and these tools apply to Scotland without any Scottish analytical input.
 
+**Has a dedicated sector-regulator AI position.** The FCA AI Update (April 2024) is the most developed sector-regulator treatment of AI by any UK or devolved body. It maps existing financial services rules to the government's 5 principles with specific regulatory paragraph references (SYSC 4, SM&CR SMF24/SMF4, Consumer Duty). Scotland has no equivalent because financial regulation is reserved.
+
+**Has an independent compute review.** The Future of Compute Review (Ghahramani, March 2023) is a foundational independent expert assessment of UK compute position. Its 10 recommendations shaped subsequent UK compute policy (AIRR, Isambard-AI, AI Opportunities Action Plan commitments). Scotland has no equivalent standalone compute review — it relies on UK-level compute policy while hosting Tier 1 infrastructure via EPCC Edinburgh.
+
+**Has AI-relevant primary legislation.** The Data (Use and Access) Act 2025 is enacted primary legislation that reshapes the data protection landscape AI operates in. Scotland has not legislated (cannot legislate) on data protection — Scotland operates under the DUAA as it does under UK GDPR.
+
+**Has operational infrastructure policy papers.** "Delivering AI Growth Zones" (November 2025) is a 15-page operational policy paper with specific interventions (grid reform, 24/16/14 GBP/MWh pricing support, 4.5M planning experts team, January 2026 Delivery Unit launch). Scotland's strategy identifies infrastructure as a priority but does not produce operational implementation papers because the relevant powers (grid, major planning, pricing) are reserved.
+
 **Has a much larger budget envelope.** Whether the UK's 2B+ GBP aggregate AI commitment is sufficient is debatable, but it dwarfs the Scottish strategy's named funding.
 
 **Has published progress updates.** The AI Opportunities Action Plan: One Year On (January 2026) provides (selective) progress reporting. Scotland's 2021 strategy was published but no public progress update has been analysed; the 2026 strategy is too new for comparable reporting.
@@ -186,7 +203,7 @@ That said, where the two approaches overlap, Scotland's strategy has distinct we
 
 Where the UK has weaknesses, some are shared: both are economy-first, both create institutional machinery, both respond to frontier AI risks with voluntary or advocacy approaches rather than enforcement. The UK's advantage is scale and institutional capacity, not fundamentally different policy philosophy.
 
-The most interesting divergence is the regulatory posture. Scotland's explicit advocacy for EU AI Act alignment and OECD principles on a statutory footing is a political position Scotland has articulated clearly even though it cannot implement. Whether this creates ongoing friction with UK Government AI policy — and whether post-election politics change the UK position — will determine whether this divergence grows or narrows over time.
+The most interesting divergence is the regulatory posture. Scotland's explicit advocacy for EU AI Act alignment and OECD principles on a statutory footing is a political position Scotland has articulated clearly even though it cannot implement. The UK has now moved in the opposite direction with the Data (Use and Access) Act 2025, which relaxes solely automated decision-making restrictions in a way that directly contradicts where the EU AI Act has gone. The UK-EU regulatory gap on AI is no longer just a difference of framing — it is enacted in primary UK legislation that applies in Scotland without Scottish consent. Whether this creates ongoing friction with the Scottish Government — and whether Scottish advocacy shifts the UK position over time, or post-election politics realign UK policy — will determine whether this divergence grows or narrows.
 
 ---
 
