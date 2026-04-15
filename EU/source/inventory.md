@@ -37,8 +37,8 @@ Documents to collect for analysis of the EU's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| Guidelines on the Definition of an AI System (Article 3) | Feb 2025 | EU AI Office | Collected |
-| Guidelines on Prohibited AI Practices (Article 5) | Feb 2025 | EU AI Office | Collected |
+| Guidelines on the Definition of an AI System (Article 3) | Jul 2025 (C(2025) 5053) | European Commission | Collected |
+| Guidelines on Prohibited AI Practices (Article 5) | Jul 2025 (C(2025) 5052) | European Commission | Collected |
 | Commission Guidelines on GPAI (scope of obligations) | Jul 2025 | European Commission | Collected |
 | Draft Guidance on Serious Incident Reporting (Article 73) | Sep 2025 | European Commission | Collected |
 | Incident Report Template for Serious Incidents (high-risk AI) | Sep 2025 | European Commission | Collected |
