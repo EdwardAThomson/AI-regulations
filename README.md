@@ -14,7 +14,7 @@ Each country directory contains its own README with an overview, source inventor
 | [Singapore](Singapore/README.md) | Analysis complete | 9 | Model AI Governance Frameworks (base / GenAI / Agentic AI), NAIS 2.0, FEAT, PDPC, ASEAN Guides |
 | [Switzerland](Switzerland/README.md) | Analysis complete | 2 | Federal Council approach (no standalone AI law), FINMA AI governance guidance |
 | [UK](UK/README.md) | Analysis complete | 14 | Pro-Innovation framework, AI Opportunities Action Plan, AISI, Playbook, DUAA 2025 |
-| [USA](USA/README.md) | Sources collected | 0 | Biden EO 14110 (revoked), Trump AI Action Plan, NIST AI RMF, state-level patchwork |
+| [USA](USA/README.md) | Analysis complete | 5 | NIST AI RMF, Executive Orders (Biden/Trump), AI Action Plan, AI Bill of Rights, OMB governance |
 
 ## Cross-Jurisdictional Comparisons
 
