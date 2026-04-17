@@ -8,19 +8,27 @@ Each country directory contains source documents and analysis covering the full 
 
 Each country directory contains its own README with an overview, source inventory, and links to analysis files.
 
-| Country | Status | Focus areas |
-|---------|--------|-------------|
-| [EU](EU/README.md) | Sources collected | EU AI Act (Regulation 2024/1689), GPAI Code of Practice, AI Office guidelines |
-| [Singapore](Singapore/README.md) | Analysis in progress | Model AI Governance Frameworks (base / GenAI / Agentic AI), ASEAN Guide |
-| [Switzerland](Switzerland/README.md) | Sources partially collected | Federal Council approach (no standalone AI law), FINMA, data protection |
-| [UK](UK/README.md) | Analysis complete | Pro-Innovation framework, AI Opportunities Action Plan, AISI, Playbook (10 reviews) |
-| [USA](USA/README.md) | Sources collected | Biden EO 14110, Trump EO (Jan 2025), NIST AI RMF, state-level patchwork |
+| Country | Status | Reviews | Focus areas |
+|---------|--------|---------|-------------|
+| [EU](EU/README.md) | Analysis complete | 10 | EU AI Act, GPAI Code of Practice, Commission Guidelines, Transparency Code, HLEG Ethics Guidelines |
+| [Singapore](Singapore/README.md) | Analysis in progress | 3 + 2 earlier | Model AI Governance Frameworks (base / GenAI / Agentic AI), National AI Strategy 2.0 |
+| [Switzerland](Switzerland/README.md) | Analysis complete | 2 | Federal Council approach (no standalone AI law), FINMA AI governance guidance |
+| [UK](UK/README.md) | Analysis complete | 14 | Pro-Innovation framework, AI Opportunities Action Plan, AISI, Playbook, DUAA 2025 |
+| [USA](USA/README.md) | Sources collected | 0 | Biden EO 14110 (revoked), Trump AI Action Plan, NIST AI RMF, state-level patchwork |
+
+## Cross-Jurisdictional Comparisons
+
+| Comparison | Location |
+|------------|----------|
+| [UK vs EU](comparisons/UK-EU-comparison.md) | Dimension-by-dimension table, convergences, strategic implications |
+| [UK vs EU Strengths and Weaknesses](comparisons/UK-EU-strengths-weaknesses.md) | Stakeholder-disaggregated synthesis (draft) |
+| [UK vs Scotland](UK/analysis/UK-Scotland-comparison.md) | Intra-UK divergence on regulatory philosophy |
 
 ## Methodology
 
 Analysis follows a structured approach adapted from a [multi-LLM review of Scotland's AI Strategy 2026-2031](https://github.com/EdwardAThomson/AI_Scotland). That project established a methodology in which three LLMs independently review a strategy document using a shared checklist, and the results are reconciled to surface consensus, disagreements, and blind spots.
 
-This repo extends that approach to multiple countries. Not every country will receive the full multi-LLM treatment immediately — some will start with source collection and preliminary analysis, then deepen over time.
+This repo extends that approach to multiple countries. Each review covers: summary, key points, and observations across analytical lenses (clarity, measurability, gaps, feasibility, internal consistency, coverage, international alignment), concluding with an overall assessment.
 
 See [methodology.md](methodology.md) for the full assessment framework.
 
@@ -45,30 +53,38 @@ The goal is to understand not just what a country has published, but how its var
 ```
 methodology.md                 # Shared assessment framework
 README.md                      # This file
+comparisons/                   # Cross-jurisdictional comparisons
+  UK-EU-comparison.md
+  UK-EU-strengths-weaknesses.md
 EU/
-  README.md                    # Country overview + index of contents
-  source/                      # Source documents
-    inventory.md               # Tracked document list
-  analysis/                    # Reviews, assessments, and findings
+  README.md                    # Country overview + 10-review index
+  source/
+    inventory.md
+  analysis/
+    review-claude/             # 10 section-level reviews
 Singapore/
-  README.md                    # Country overview + index of contents
+  README.md                    # Country overview + review index
   source/
     inventory.md
   analysis/
+    01-agentic-ai-governance-framework.md
+    02-agent-adoption-guide.md
+    review-claude/             # 3 section-level reviews
 Switzerland/
-  README.md                    # Country overview + index of contents
+  README.md                    # Country overview + 2-review index
   source/
     inventory.md
   analysis/
+    review-claude/             # 2 section-level reviews
 UK/
-  README.md                    # Country overview + index of contents
+  README.md                    # Country overview + 14-review index
   source/
     inventory.md
   analysis/
-    UK-Scotland-comparison.md  # Cross-references Scotland's AI Strategy review
-    review-claude/             # Section-level Claude reviews
+    UK-Scotland-comparison.md
+    review-claude/             # 14 section-level reviews
 USA/
-  README.md                    # Country overview + index of contents
+  README.md                    # Country overview (analysis not yet started)
   source/
     inventory.md
   analysis/
