@@ -189,5 +189,5 @@ For firms and advisors working across these three jurisdictions:
 
 **Related comparisons:**
 - [UK vs EU detailed comparison](UK-EU-comparison.md)
-- [UK vs EU strengths and weaknesses](UK-EU-strengths-weaknesses.md)
+- [EFTA and AI Governance](efta-ai-governance.md)
 - [UK vs Scotland comparison](../UK/analysis/UK-Scotland-comparison.md)

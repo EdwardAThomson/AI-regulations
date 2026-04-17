@@ -21,7 +21,6 @@ Each country directory contains its own README with an overview, source inventor
 | Comparison | Location |
 |------------|----------|
 | [UK vs EU](comparisons/UK-EU-comparison.md) | Dimension-by-dimension table, convergences, strategic implications |
-| [UK vs EU Strengths and Weaknesses](comparisons/UK-EU-strengths-weaknesses.md) | Stakeholder-disaggregated synthesis (draft) |
 | [Small Open Economies: UK, Singapore, Switzerland](comparisons/small-open-economies-comparison.md) | Three-way comparison of jurisdictions that rejected comprehensive AI legislation |
 | [EFTA and AI Governance](comparisons/efta-ai-governance.md) | Norway, Iceland, Liechtenstein (EEA — AI Act binding) vs Switzerland (non-EEA) |
 | [UK vs Scotland](UK/analysis/UK-Scotland-comparison.md) | Intra-UK divergence on regulatory philosophy |
@@ -57,7 +56,8 @@ methodology.md                 # Shared assessment framework
 README.md                      # This file
 comparisons/                   # Cross-jurisdictional comparisons
   UK-EU-comparison.md
-  UK-EU-strengths-weaknesses.md
+  small-open-economies-comparison.md
+  efta-ai-governance.md
 EU/
   README.md                    # Country overview + 10-review index
   source/
