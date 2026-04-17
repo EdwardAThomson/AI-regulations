@@ -15,7 +15,7 @@ Singapore/
 └── analysis/                          # Reviews and analyses
     ├── 01-agentic-ai-governance-framework.md    # Earlier analysis
     ├── 02-agent-adoption-guide.md               # Practical deployment guide
-    └── review-claude/                           # Claude section-level reviews (3 docs)
+    └── review-claude/                           # Claude section-level reviews (7 docs)
 ```
 
 ## Sources
@@ -44,13 +44,17 @@ Currently collected sources (8 documents):
 
 ### Section-level reviews — [`analysis/review-claude/`](analysis/review-claude/)
 
-Three document-level reviews following the structure set out in [`../methodology.md`](../methodology.md).
+Seven document-level reviews following the structure set out in [`../methodology.md`](../methodology.md).
 
 | # | Date | Review |
 |---|------|--------|
+| 04 | Nov 2018 | [MAS FEAT Principles](analysis/review-claude/04-mas-feat-principles.md) |
 | 01 | Jan 2020 | [Model AI Governance Framework (2nd Ed)](analysis/review-claude/01-model-ai-governance-framework-2020.md) |
-| 02 | Jun 2024 | [Model AI Governance Framework for GenAI](analysis/review-claude/02-model-ai-governance-framework-genai-2024.md) |
 | 03 | Dec 2023 | [National AI Strategy 2.0](analysis/review-claude/03-national-ai-strategy-2.0.md) |
+| 05 | Mar 2024 | [PDPC Advisory Guidelines on Personal Data in AI](analysis/review-claude/05-pdpc-advisory-guidelines-ai.md) |
+| 02 | Jun 2024 | [Model AI Governance Framework for GenAI](analysis/review-claude/02-model-ai-governance-framework-genai-2024.md) |
+| 06 | 2024 | [ASEAN Guide on AI Governance and Ethics](analysis/review-claude/06-asean-guide-ai-governance.md) |
+| 07 | Jan 2025 | [Expanded ASEAN Guide — Generative AI](analysis/review-claude/07-expanded-asean-guide-genai.md) |
 
 ### Earlier analyses — [`analysis/`](analysis/)
 
