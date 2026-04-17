@@ -2,7 +2,7 @@
 
 Documents to collect for analysis of Switzerland's AI governance landscape.
 
-**Status key:** Collected | Needed | Lower priority | Verify (may need URL/status confirmation)
+**Status key:** Collected & reviewed | Collected | Needed | Lower priority | Verify
 
 ---
 
@@ -14,6 +14,7 @@ Documents to collect for analysis of Switzerland's AI governance landscape.
 | Federal Council guidelines for AI use in federal administration | Nov 2020 | Federal Council | Needed |
 | Federal Council report on AI regulation (no comprehensive AI law needed) | Nov 2023 | Federal Council | Needed |
 | Federal Council report on AI and the labour market | Dec 2024 | Federal Council / SECO | Verify — confirm publication |
+| Federal Council AI Regulation Approach | Feb 2025 | Federal Council | Collected & reviewed |
 
 ## EU AI Act Positioning
 
@@ -37,7 +38,7 @@ Documents to collect for analysis of Switzerland's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| FINMA guidance on AI/ML in financial sector | 2024 | FINMA | Verify — confirm scope and publication |
+| FINMA Guidance 08/2024 on AI Governance | Dec 2024 | FINMA | Collected & reviewed |
 | Swiss Bankers Association AI Guidelines | 2024 | SBA | Lower priority |
 
 ## Sector-Specific: Other

@@ -26,6 +26,10 @@ Each country directory contains its own README with an overview, source inventor
 | [EFTA and AI Governance](comparisons/efta-ai-governance.md) | Norway, Iceland, Liechtenstein (EEA — AI Act binding) vs Switzerland (non-EEA) |
 | [UK vs Scotland](UK/analysis/UK-Scotland-comparison.md) | Intra-UK divergence on regulatory philosophy |
 
+## Reference
+
+- [Glossary](glossary.md) — how key AI governance terms (provider, deployer, GPAI, risk classification, etc.) differ across the five jurisdictions
+
 ## Methodology
 
 Analysis follows a structured approach adapted from a [multi-LLM review of Scotland's AI Strategy 2026-2031](https://github.com/EdwardAThomson/AI_Scotland). That project established a methodology in which three LLMs independently review a strategy document using a shared checklist, and the results are reconciled to surface consensus, disagreements, and blind spots.

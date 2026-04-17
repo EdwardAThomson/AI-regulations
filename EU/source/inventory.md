@@ -2,7 +2,7 @@
 
 Documents to collect for analysis of the EU's AI governance landscape.
 
-**Status key:** Collected | Needed | Lower priority | Withdrawn
+**Status key:** Collected & reviewed | Collected & reviewed | Needed | Lower priority | Withdrawn
 
 ---
 
@@ -10,7 +10,7 @@ Documents to collect for analysis of the EU's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| EU AI Act (Regulation 2024/1689) | Jul 2024 | European Parliament & Council | Collected |
+| EU AI Act (Regulation 2024/1689) | Jul 2024 | European Parliament & Council | Collected & reviewed |
 | AI Liability Directive (proposed, COM(2022) 496) | Withdrawn Feb 2025 | European Commission | Withdrawn — 2025 Work Programme formally withdrew; Commission may revisit under different approach |
 | Revised Product Liability Directive (Directive 2024/2853) | Nov 2024 | European Parliament & Council | Needed |
 
@@ -25,11 +25,11 @@ Documents to collect for analysis of the EU's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| GPAI Code of Practice (Summary) | 2024 | EU AI Office | Collected |
-| GPAI Code of Practice (Final) — Transparency chapter | Jul 2025 | EU AI Office | Collected |
-| GPAI Code of Practice (Final) — Copyright chapter | Jul 2025 | EU AI Office | Collected |
-| GPAI Code of Practice (Final) — Safety and Security chapter | Jul 2025 | EU AI Office | Collected |
-| Code of Practice on Transparency of AI-Generated Content — 1st draft | Dec 2025 | EU AI Office | Collected |
+| GPAI Code of Practice (Summary) | 2024 | EU AI Office | Collected & reviewed |
+| GPAI Code of Practice (Final) — Transparency chapter | Jul 2025 | EU AI Office | Collected & reviewed |
+| GPAI Code of Practice (Final) — Copyright chapter | Jul 2025 | EU AI Office | Collected & reviewed |
+| GPAI Code of Practice (Final) — Safety and Security chapter | Jul 2025 | EU AI Office | Collected & reviewed |
+| Code of Practice on Transparency of AI-Generated Content — 1st draft | Dec 2025 | EU AI Office | Collected & reviewed |
 | Code of Practice on Transparency of AI-Generated Content — 2nd draft | Mar 2026 | EU AI Office | Verify |
 | Code of Practice on Transparency of AI-Generated Content — Final | Jun 2026 | EU AI Office | Not yet published (expected ahead of Article 50 entry into force) |
 
@@ -37,31 +37,31 @@ Documents to collect for analysis of the EU's AI governance landscape.
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| Guidelines on the Definition of an AI System (Article 3) | Jul 2025 (C(2025) 5053) | European Commission | Collected |
-| Guidelines on Prohibited AI Practices (Article 5) | Jul 2025 (C(2025) 5052) | European Commission | Collected |
-| Commission Guidelines on GPAI (scope of obligations) | Jul 2025 | European Commission | Collected |
-| Draft Guidance on Serious Incident Reporting (Article 73) | Sep 2025 | European Commission | Collected |
-| Incident Report Template for Serious Incidents (high-risk AI) | Sep 2025 | European Commission | Collected |
+| Guidelines on the Definition of an AI System (Article 3) | Jul 2025 (C(2025) 5053) | European Commission | Collected & reviewed |
+| Guidelines on Prohibited AI Practices (Article 5) | Jul 2025 (C(2025) 5052) | European Commission | Collected & reviewed |
+| Commission Guidelines on GPAI (scope of obligations) | Jul 2025 | European Commission | Collected & reviewed |
+| Draft Guidance on Serious Incident Reporting (Article 73) | Sep 2025 | European Commission | Collected & reviewed |
+| Incident Report Template for Serious Incidents (high-risk AI) | Sep 2025 | European Commission | Collected & reviewed |
 | AI Literacy Repository (from AI Pact participants) | 2025 | EU AI Office | Lower priority (collection of practices rather than a policy doc) |
 
 ## Voluntary / Pact
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| EU AI Pact Press Release | Sep 2024 | EU AI Office | Collected |
+| EU AI Pact Press Release | Sep 2024 | EU AI Office | Collected & reviewed |
 
 ## Strategic Plans (Non-binding)
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| Coordinated Plan on AI — 2021 Review (COM(2021) 205) | Apr 2021 | European Commission | Collected |
+| Coordinated Plan on AI — 2021 Review (COM(2021) 205) | Apr 2021 | European Commission | Collected & reviewed |
 | **InvestAI initiative** (20B EUR for 5 AI Gigafactories; 200B EUR total mobilisation) | Feb 2025 | European Commission | Needed — press release / info page only; no standalone policy paper |
 
 ## Ethical Frameworks (Non-binding, historical)
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| Ethics Guidelines for Trustworthy AI | Apr 2019 | AI HLEG | Collected |
+| Ethics Guidelines for Trustworthy AI | Apr 2019 | AI HLEG | Collected & reviewed |
 | Assessment List for Trustworthy AI (ALTAI) | Jul 2020 | AI HLEG | Lower priority |
 
 ## Adjacent Legislation (Binding, not AI-specific)
