@@ -101,4 +101,6 @@ The EU AI Act is the benchmark against which other jurisdictions' approaches are
 - **USA** has taken a patchwork approach with no comprehensive federal legislation; state-level regulation (Colorado AI Act) more closely resembles the EU approach than federal action does
 - **Switzerland** explicitly decided against standalone AI legislation (November 2023) but is assessing equivalence pressure from the EU AI Act
 
+The three EEA EFTA states (Norway, Iceland, Liechtenstein) must incorporate the AI Act into the EEA Agreement — extending its effective reach beyond the EU 27. Switzerland, as the only EFTA member outside the EEA, explicitly rejected the AI Act. See [`../comparisons/efta-ai-governance.md`](../comparisons/efta-ai-governance.md) for the EFTA comparison.
+
 The CMA's review of the EU approach (in [`../UK/analysis/review-claude/09-cma-ai-foundation-models-initial-report.md`](../UK/analysis/review-claude/09-cma-ai-foundation-models-initial-report.md)) summarises the Act's provisions on foundation models and general-purpose AI.
