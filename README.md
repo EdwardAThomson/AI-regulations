@@ -21,6 +21,7 @@ Each country directory contains its own README with an overview, source inventor
 | Comparison | Location |
 |------------|----------|
 | [UK vs EU](comparisons/UK-EU-comparison.md) | Dimension-by-dimension table, convergences, strategic implications |
+| [USA vs EU](comparisons/USA-EU-comparison.md) | Two poles of global AI governance; Brussels effect; administration volatility vs regulatory permanence |
 | [Small Open Economies: UK, Singapore, Switzerland](comparisons/small-open-economies-comparison.md) | Three-way comparison of jurisdictions that rejected comprehensive AI legislation |
 | [EFTA and AI Governance](comparisons/efta-ai-governance.md) | Norway, Iceland, Liechtenstein (EEA — AI Act binding) vs Switzerland (non-EEA) |
 | [UK vs Scotland](UK/analysis/UK-Scotland-comparison.md) | Intra-UK divergence on regulatory philosophy |
