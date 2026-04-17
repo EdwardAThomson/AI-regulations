@@ -2,7 +2,7 @@
 
 A comparison of the UK's AI governance position (as analysed in 14 document reviews in [`../UK/analysis/review-claude/`](../UK/analysis/review-claude/)) with the EU's (10 document reviews in [`../EU/analysis/review-claude/`](../EU/analysis/review-claude/)).
 
-The UK and EU represent the two most mature AI governance approaches in the world, and they are substantively different on nearly every design choice: regulatory philosophy, legal form, scope, GPAI/foundation-model treatment, transparency, enforcement, and international positioning. For UK-based firms serving EU clients, understanding both is not optional — the AI Act's extraterritorial reach means the EU framework applies to UK providers whose systems are placed on the EU market or whose outputs are used in the EU, regardless of UK establishment.
+The UK and EU represent the two most mature AI governance approaches in the world, and they are substantively different on nearly every design choice: regulatory philosophy, legal form, scope, GPAI/foundation-model treatment, transparency, enforcement, and international positioning. For UK-based firms serving EU clients, understanding both matters — the AI Act claims extraterritorial reach over UK providers whose systems are placed on the EU market or whose outputs are used in the EU. Whether and how aggressively this is enforced against UK firms depends on their EU presence and market exposure (see enforcement realism note below).
 
 ---
 
@@ -66,12 +66,13 @@ The EU AI Act is moving in the opposite direction — **strengthening** oversigh
 **UK approach**: Voluntary engagement. AISI conducts pre-deployment evaluations of frontier models with developer cooperation. The International Scientific Report synthesises cross-country scientific consensus. No statutory obligations on model providers.
 
 **EU approach**: Binding obligations (AI Act Chapter V). Two tiers:
+
 - **GPAI** (10^23 FLOP indicative threshold): technical documentation, copyright compliance, downstream information provision, training summary publication
 - **GPAI with systemic risk** (10^25 FLOP): adversarial testing, incident reporting, cybersecurity, risk mitigation for four specified systemic risks (CBRN, Loss of Control, Cyber Offence, Harmful Manipulation)
 
 The Commission GPAI Guidelines (Jul 2025) and GPAI Code of Practice (Jul 2025) operationalise these obligations. The Code has 24 signatories as of October 2025 including most major model providers.
 
-**Consequence for UK-based model providers**: If the model is placed on the EU market, Chapter V applies regardless of where the model was developed. UK AISI evaluation participation does not discharge AI Act obligations.
+**Consequence for UK-based model providers**: If the model is placed on the EU market, the EU claims Chapter V applies regardless of where the model was developed. UK AISI evaluation participation does not discharge AI Act obligations. Whether a UK provider chooses to comply depends on their EU market exposure and risk appetite (see enforcement realism note below).
 
 ### Prohibited practices — EU has 8, UK has none
 
@@ -80,6 +81,7 @@ The EU AI Act (Article 5) prohibits 8 categories of AI practices. The 134-page C
 The UK has no equivalent. Prohibitions operate through existing law (Equality Act for discrimination; GDPR for privacy; DPA for law enforcement; PECR for marketing). Sector regulators decide case-by-case.
 
 **Specific cases where UK vs EU diverges**:
+
 - **Social scoring by public authorities**: EU prohibits; UK has no direct prohibition (sector-specific rules apply)
 - **Real-time biometric identification in public spaces**: EU prohibits with narrow LEA exceptions; UK practice governed by DPA 2018 + sector-specific rules (policing, retail)
 - **Emotion recognition in workplace/education**: EU prohibits; UK has no direct prohibition (ICO guidance + Equality Act apply)
@@ -88,6 +90,7 @@ The UK has no equivalent. Prohibitions operate through existing law (Equality Ac
 ### Transparency and deepfake labelling — EU has Article 50 + Code; UK has principles
 
 EU: Article 50 imposes binding transparency obligations. The Transparency Code (Dec 2025 first draft) specifies:
+
 - Provider machine-readable marking (metadata, watermarks, fingerprinting)
 - Deployer human-readable labelling (two-level taxonomy: fully AI-generated vs AI-assisted)
 - Modality-specific rules (real-time video, non-real-time video, multimodal, image, audio with <30s/longer thresholds)
@@ -98,6 +101,7 @@ UK: No statutory AI-generated content labelling requirement. Ofcom's Online Safe
 ### Serious incident reporting — EU has Article 73; UK has sectoral regimes
 
 EU: Article 73 + Sep 2025 Draft Guidance establish tiered timelines:
+
 - 2 days — widespread infringement of fundamental rights or disruption of critical infrastructure
 - 10 days — death
 - 15 days — other serious incidents (serious harm to property/environment or serious/irreversible disruption of critical infrastructure)
@@ -110,7 +114,7 @@ EU: Up to €35M or 7% of global turnover (prohibited practices); €15M or 3% (
 
 UK: Sector-specific. ICO under UK GDPR up to 17.5M GBP or 4% turnover. FCA penalties can be substantial but depend on specific breach. No AI-specific penalty regime.
 
-**Consequence**: For the same AI compliance failure, EU penalties may significantly exceed UK penalties. This asymmetry reinforces the compliance floor effect — firms serving both markets tend to adopt EU standards globally.
+**Consequence**: For the same AI compliance failure, EU penalties may significantly exceed UK penalties. This asymmetry creates pressure — particularly on larger firms serving both markets — to adopt EU standards globally, though the actual enforcement risk depends on EU presence (see enforcement realism note below).
 
 ### International positioning — complementary rather than competitive
 
@@ -146,13 +150,13 @@ Despite the philosophical difference, the UK and EU agree on:
 
 ## Strategic implications for UK-based firms serving EU clients
 
-1. **Compliance floor is the EU floor.** UK firms placing AI systems on the EU market or whose outputs are used in EU must comply with the AI Act regardless of UK establishment. The EU floor is higher than the UK floor for most obligations; building to the EU floor satisfies UK requirements but not vice versa.
+1. **EU compliance is a risk calculation, not an absolute.** The EU AI Act claims jurisdiction over UK firms serving EU users, but enforcement depends on EU presence. Firms with EU subsidiaries face real enforcement risk. Firms without EU presence face commercial risk (losing EU customers, distribution channel restrictions) rather than direct legal risk. The higher a firm's EU market exposure, the stronger the case for building to the EU standard — which, if met, satisfies UK requirements as a side effect.
 
-2. **GPAI providers face binding EU obligations regardless of UK position.** UK-based frontier model providers who place models on the EU market must comply with Chapter V. The GPAI Code of Practice provides the structured compliance route.
+2. **GPAI providers with EU exposure face the strongest compliance pressure.** UK-based frontier model providers serving EU users are subject to Chapter V in theory; in practice, the major providers (Google DeepMind, etc.) have EU presence and have signed the GPAI Code of Practice. Smaller UK model providers without EU entities face a risk calculation rather than a compliance mandate.
 
 3. **AI Pact signing is low-cost symbolic value.** The three core pledges align with AI Act preparation regardless of whether the firm is UK or EU-based. Signing provides EU stakeholder credibility.
 
-4. **Watch the transparency gap.** UK firms producing AI-generated content for EU users must comply with Article 50 + Transparency Code from August 2026. No equivalent UK obligation exists. This is a compliance area where UK-EU divergence is material.
+4. **Watch the transparency gap.** UK firms producing AI-generated content for EU users face Article 50 + Transparency Code obligations from August 2026. No equivalent UK obligation exists. This is a compliance area where UK-EU divergence is material — and where non-compliance is relatively visible to EU authorities and users.
 
 5. **ADM divergence creates jurisdictional choice architecture.** UK firms processing UK residents' data can use the DUAA flexibilities; same firms processing EU residents' data cannot. This may drive data localisation decisions.
 
@@ -161,6 +165,22 @@ Despite the philosophical difference, the UK and EU agree on:
 7. **Brussels effect in practice.** Large UK firms (Google DeepMind, ARM, etc.) will typically adopt EU standards globally because maintaining divergent compliance frameworks is costly. This creates a de facto EU-alignment among tier-1 UK AI firms even though the UK government rejects EU alignment at policy level.
 
 8. **UK-EU regulatory alignment risk management.** The DUAA 2025 is the first substantive UK-EU AI regulatory divergence. Future divergence (e.g., UK frontier AI legislation, EU secondary instruments) will increase compliance complexity. Firms should build regulatory tracking into their governance processes.
+
+### A note on enforcement realism for UK firms without EU presence
+
+The compliance-floor framing above assumes EU enforcement can reach UK firms. In practice, enforcement risk scales with EU presence:
+
+**UK firms with EU subsidiaries or offices** (common given pre-Brexit business structures): the EU subsidiary is the enforcement target. Fines up to €35M or 7% of global turnover can be assessed against the EU entity. This is the GDPR-tested pathway — every major GDPR fine against a non-EU company has been against its EU subsidiary.
+
+**UK firms with no EU presence but EU users** (e.g., SaaS products with EU signups): technically subject to the AI Act, but practical enforcement is limited. EU authorities can order distribution channels (app stores, cloud marketplaces) to stop serving the product to EU users, and EU enterprise customers may require compliance assurances. But collecting fines against an entity with no EU assets is practically impossible. The risk is commercial (losing EU customers) rather than legal (uncollectable fines).
+
+**UK firms with no EU users**: the AI Act does not apply. No risk.
+
+**The authorised-representative requirement** (Article 22): non-EU providers of high-risk AI systems or GPAI models must appoint an EU-established authorised representative. If a UK firm doesn't, they're non-compliant — but enforcing the penalty requires reaching an entity without EU presence.
+
+**Travel risk for UK founders** is marginally more relevant than for US founders given geographic proximity and frequency of EU travel for business. AI Act penalties are administrative (on the company, not criminal against individuals), and no founder has been detained for GDPR non-compliance. But the proximity and frequency of contact means UK founders are more likely to be within EU jurisdiction than US founders at any given time.
+
+**The practical bottom line**: UK firms with EU subsidiaries should treat EU AI Act compliance as fully enforceable (it is). UK firms without EU presence face commercial rather than legal risk. The decision to comply should be driven by EU market exposure, not by enforcement fear alone.
 
 ---
 
@@ -172,14 +192,14 @@ The UK and EU have chosen fundamentally different architectures for AI governanc
 
 - **EU trades flexibility for legal clarity.** Binding obligations create compliance certainty but risk misfit with emerging technologies (the AI Act was drafted before GPAI became prominent and has needed extensive secondary interpretation).
 
-For firms operating across both jurisdictions, the practical reality is that **EU obligations set the compliance floor**. UK firms serving EU clients must meet the EU standard; the UK standard is typically less demanding. The reverse is not true — EU firms serving UK clients generally find UK compliance easier than EU compliance.
+For firms operating across both jurisdictions, the EU standard is higher than the UK standard for most obligations. Firms that build to the EU standard satisfy UK requirements as a side effect; the reverse is not true. But building to the EU standard is a choice driven by risk appetite and EU market exposure, not an absolute requirement — particularly for firms without EU presence, where enforcement is limited to commercial pressure rather than direct legal action.
 
 For **policy analysts and clients asking which approach is "better"**, the honest answer is that the question is not well-formed. The UK's approach fits an economy seeking to differentiate from its largest trading bloc through regulatory arbitrage; the EU's approach fits a single market seeking to create a uniform regulatory environment across 27 Member States. Neither model transplants cleanly to the other context.
 
 For **UK-based firms and their advisors**, the practical guidance is:
 
-1. Treat the EU AI Act as the primary compliance framework if you serve EU users.
-2. Use UK regulatory flexibility where it applies and creates competitive advantage — but track the compliance cost of maintaining divergent postures.
+1. Assess your EU market exposure honestly. If you have EU subsidiaries, EU AI Act compliance is enforceable against you. If you have significant EU revenue without EU presence, compliance is a commercial risk question. If you have no EU users, the Act doesn't apply.
+2. If you choose to build to the EU standard, it satisfies UK requirements as a side effect. Use UK regulatory flexibility where it applies and creates competitive advantage for UK-only activities.
 3. Build regulatory change tracking for both UK and EU developments, because divergence will increase over the coming years.
 4. Engage with both AISI (voluntarily) and EU AI Office (through Pact, Codes, consultations) to shape how secondary instruments develop.
 
@@ -190,6 +210,7 @@ For **UK-based firms and their advisors**, the practical guidance is:
 **UK reviews** (14 documents): see [`../UK/analysis/review-claude/`](../UK/analysis/review-claude/)
 
 Key documents referenced in this comparison:
+
 - [Pro-Innovation White Paper (Mar 2023)](../UK/analysis/review-claude/03-pro-innovation-white-paper.md)
 - [Pro-Innovation Regulation Consultation Response (Feb 2024)](../UK/analysis/review-claude/02-pro-innovation-regulation-consultation-response.md)
 - [AISI Approach to Evaluations (Feb 2024)](../UK/analysis/review-claude/08-aisi-approach-to-evaluations.md)
@@ -203,6 +224,7 @@ Key documents referenced in this comparison:
 **EU reviews** (10 documents): see [`../EU/analysis/review-claude/`](../EU/analysis/review-claude/)
 
 All documents referenced:
+
 - [Ethics Guidelines for Trustworthy AI (Apr 2019)](../EU/analysis/review-claude/08-ethics-guidelines-trustworthy-ai-2019.md)
 - [Coordinated Plan on AI 2021 Review (Apr 2021)](../EU/analysis/review-claude/09-coordinated-plan-on-ai-2021-review.md)
 - [EU AI Act (Jul 2024)](../EU/analysis/review-claude/01-eu-ai-act.md)
