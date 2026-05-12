@@ -76,6 +76,10 @@ Fourteen document-level reviews following the structure set out in [`../methodol
 | 13 | Nov 2025 | [Delivering AI Growth Zones](analysis/review-claude/13-delivering-ai-growth-zones.md) |
 | 04 | Jan 2026 | [AI Opportunities Action Plan: One Year On](analysis/review-claude/04-ai-opportunities-action-plan-one-year-on.md) |
 
+### Case law update
+
+- [**UK AI case law update**](analysis/case-law-update.md) — first UK substantive AI rulings: *Munir v SSHD [2026] UKUT 81 (IAC)* on AI-induced waiver of privilege and confidentiality, and *Getty Images v Stability AI* (High Court judgment, 4 November 2025) on training-data jurisdiction and output-side IP liability. Treats case law as a recurring source category alongside government documents.
+
 ### Cross-country comparison
 
 - [**UK vs Scotland comparison**](analysis/UK-Scotland-comparison.md) — cross-references the 14 UK reviews with the three-LLM review of Scotland's AI Strategy 2026-2031 in the sibling [AI_Scotland repository](https://github.com/EdwardAThomson/AI_Scotland). Identifies substantive divergences (regulatory philosophy, measurability, operational depth), shared weaknesses (economy-first framing, institutional machinery without results), and structural constraints (reserved vs devolved competences).
