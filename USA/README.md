@@ -51,6 +51,10 @@ Five reviews covering all 7 collected source documents (EO 14110, EO 14179, and 
 | 02 | Oct 2023 — Jul 2025 | [Executive Orders and AI Action Plan](analysis/review-claude/02-executive-orders-and-action-plan.md) |
 | 05 | Apr 2025 | [OMB Memorandum M-25-21](analysis/review-claude/05-omb-m-25-21.md) |
 
+### State-level legislation — [`analysis/state-legislation.md`](analysis/state-legislation.md)
+
+The federal reviews above cover only the federal layer. The binding obligations on private-sector AI in the US today are mostly state, not federal. [State-level legislation](analysis/state-legislation.md) records the operationally-significant state regimes: Colorado AI Act (SB 24-205, the only US horizontal AI statute), California CPRA + ADMT + AB 2013 + SB 942 + the vetoed SB 1047, NYC Local Law 144 (AEDT), Illinois BIPA and Texas CUBI (biometric), Utah AI Policy Act, and the state privacy laws that function as AI overlays.
+
 ## Key findings across the US landscape
 
 1. **No comprehensive federal AI legislation.** The US relies on executive orders (volatile), voluntary frameworks (NIST), agency enforcement under existing authority (FTC, FDA, EEOC), and state-level legislation (Colorado, California, Utah). This is the lightest-touch federal approach among major jurisdictions.
