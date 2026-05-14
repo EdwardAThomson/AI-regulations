@@ -4,6 +4,11 @@ The UK's AI governance position is distinctive: deliberately pro-innovation, non
 
 This directory contains the source documents and reviews that together map that position.
 
+## Note
+
+- This material is for research and comparison only, not legal advice.
+- Reviews in this directory were produced or assisted by AI and may contain mistakes or outdated interpretations; important points should be checked against the primary sources.
+
 ## Contents
 
 ```
@@ -78,7 +83,7 @@ Fourteen document-level reviews following the structure set out in [`../methodol
 
 ### Case law update
 
-- [**UK AI case law update**](analysis/case-law-update.md) — first UK substantive AI rulings: *Munir v SSHD [2026] UKUT 81 (IAC)* on AI-induced waiver of privilege and confidentiality, and *Getty Images v Stability AI* (High Court judgment, 4 November 2025) on training-data jurisdiction and output-side IP liability. Treats case law as a recurring source category alongside government documents.
+- [**UK AI case law update**](analysis/case-law-update.md) — first UK substantive AI rulings: *Munir v SSHD [2026] UKUT 81 (IAC)* on the risks of disclosing privileged or confidential material to public AI tools, and *Getty Images v Stability AI* (High Court judgment, 4 November 2025) on training-data jurisdiction and output-side IP liability. Treats case law as a recurring source category alongside government documents.
 
 ### Cross-country comparison
 

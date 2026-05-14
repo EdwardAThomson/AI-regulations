@@ -4,6 +4,11 @@ The EU's AI governance position is the world's most comprehensive horizontal reg
 
 This directory contains the source documents and reviews that together map that position.
 
+## Note
+
+- This material is for research and comparison only, not legal advice.
+- Reviews in this directory were produced or assisted by AI and may contain mistakes or outdated interpretations; important points should be checked against the primary sources.
+
 ## Contents
 
 ```

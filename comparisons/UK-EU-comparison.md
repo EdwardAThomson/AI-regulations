@@ -172,15 +172,15 @@ The compliance-floor framing above assumes EU enforcement can reach UK firms. In
 
 **UK firms with EU subsidiaries or offices** (common given pre-Brexit business structures): the EU subsidiary is the enforcement target. Fines up to €35M or 7% of global turnover can be assessed against the EU entity. This is the GDPR-tested pathway — every major GDPR fine against a non-EU company has been against its EU subsidiary.
 
-**UK firms with no EU presence but EU users** (e.g., SaaS products with EU signups): technically subject to the AI Act, but practical enforcement is limited. EU authorities can order distribution channels (app stores, cloud marketplaces) to stop serving the product to EU users, and EU enterprise customers may require compliance assurances. But collecting fines against an entity with no EU assets is practically impossible. The risk is commercial (losing EU customers) rather than legal (uncollectable fines).
+**UK firms with no EU presence but EU users** (e.g., SaaS products with EU signups): technically subject to the AI Act, but practical enforcement is limited. EU authorities can order distribution channels (app stores, cloud marketplaces) to stop serving the product to EU users, and EU enterprise customers may require compliance assurances. But collecting fines against an entity with no EU assets is materially harder in practice. The risk is often channelled through commercial pressure, market-access restrictions, and EU-side intermediaries rather than straightforward direct collection.
 
 **UK firms with no EU users**: the AI Act does not apply. No risk.
 
-**The authorised-representative requirement** (Article 22): non-EU providers of high-risk AI systems or GPAI models must appoint an EU-established authorised representative. If a UK firm doesn't, they're non-compliant — but enforcing the penalty requires reaching an entity without EU presence.
+**The authorised-representative requirement**: non-EU providers of high-risk AI systems must appoint an EU-established authorised representative under **Article 22**, and non-EU providers of GPAI models must do so under **Article 54** (subject to the open-source exception). If a UK firm does not, it is non-compliant — but enforcing the penalty still depends on reaching an entity without EU presence or otherwise constraining access to the EU market.
 
 **Travel risk for UK founders** is marginally more relevant than for US founders given geographic proximity and frequency of EU travel for business. AI Act penalties are administrative (on the company, not criminal against individuals), and no founder has been detained for GDPR non-compliance. But the proximity and frequency of contact means UK founders are more likely to be within EU jurisdiction than US founders at any given time.
 
-**The practical bottom line**: UK firms with EU subsidiaries should treat EU AI Act compliance as fully enforceable (it is). UK firms without EU presence face commercial rather than legal risk. The decision to comply should be driven by EU market exposure, not by enforcement fear alone.
+**The practical bottom line**: UK firms with EU subsidiaries should treat EU AI Act compliance as fully enforceable (it is). UK firms without EU presence still face legal exposure, but direct enforcement and collection are materially harder and often mediated through commercial pressure, intermediaries, and market access. The decision to comply should be driven by EU market exposure, not by enforcement fear alone.
 
 ---
 

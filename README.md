@@ -4,6 +4,12 @@ A comparative analysis of national AI strategies, policies, frameworks, and regu
 
 Each country directory contains source documents and analysis covering the full scope of a nation's approach to AI governance — from high-level strategy through to specific regulatory frameworks, whether they address foundation models, agentic systems, sector-specific applications, or AI safety.
 
+## Important Notes
+
+- **Not legal advice.** This repository is for research, comparison, and policy analysis only. It does not constitute legal advice, regulatory advice, or a substitute for jurisdiction-specific professional counsel.
+- **AI-assisted reviews.** Many of the reviews in this repository were produced or assisted by AI systems using a structured methodology. They should be treated as analytical working documents, not authoritative legal opinions.
+- **Errors are possible.** AI systems can misunderstand source material, overstate legal effects, miss updates, or make citation and interpretation mistakes. Important claims should be checked against the primary sources and, where needed, reviewed by a qualified lawyer or subject-matter expert.
+
 ## Countries
 
 Each country directory contains its own README with an overview, source inventory, and links to analysis files.

@@ -2,7 +2,7 @@
 
 UK AI governance to date has been overwhelmingly executive and regulator-led: white papers, playbooks, regulator updates, and the DUAA 2025 reform of UK GDPR. The reviews in `review-claude/` cover that body of work. What they do not cover is **case law**, which is now starting to fill some of the gap left by the absence of a single AI statute. Two recent UK matters are material enough to record alongside the document reviews:
 
-1. **Munir v Secretary of State for the Home Department [2026] UKUT 81 (IAC)** — Upper Tribunal ruling on AI-induced waiver of legal privilege and confidentiality, with supervisor responsibility implications.
+1. **Munir v Secretary of State for the Home Department [2026] UKUT 81 (IAC)** — reported Upper Tribunal decision on the risks of disclosing confidential or privileged material to public AI tools, with supervisor responsibility implications.
 2. **Getty Images (US) Inc. & Ors v Stability AI Ltd** — High Court (Chancery Division) proceedings on copyright and trade-mark exposure for AI training and image generation; the substantive judgment was handed down 4 November 2025.
 
 This note records both, with primary citations and the points relevant to AI policy design. It deliberately stays within what is in the public record at the time of writing — neither matter is yet fully settled in higher appellate authority.
@@ -17,7 +17,7 @@ The Upper Tribunal (Immigration and Asylum Chamber) sits within its established 
 
 ### What the Tribunal held
 
-At ¶21 the Upper Tribunal held that uploading confidential or privileged information into open-source AI tools — naming consumer ChatGPT — "is to place this information on the internet in the public domain, and thus to breach client confidentiality and waive legal privilege."
+In the reported decision, the Upper Tribunal said that uploading confidential or privileged information into open-source AI tools — naming consumer ChatGPT — "is to place this information on the internet in the public domain, and thus to breach client confidentiality and waive legal privilege."
 
 The Tribunal distinguished **closed-source AI tools** (it named Microsoft Copilot as an example) on the basis that, where data is not exposed to the public domain, such tools are available for tasks like summarisation without the same risks. The distinction was drawn on the architecture and data handling of the tool, not on its branding.
 
@@ -27,13 +27,13 @@ The Tribunal also treated supervisors as more culpable than the staff who direct
 
 The case sits in the Tribunal's "Hamid" jurisdiction over legal representatives, but the underlying reasoning is **persuasive across regulated professional contexts** where confidentiality, privilege, or special-category data is in play. Read in combination with UK GDPR and ICO guidance on AI and data protection, the practical implications are:
 
-- Uploading personal data, confidential information, or privileged communications to an **open-source / consumer-grade public LLM** is itself a disclosure event. For personal data, that is a UK GDPR Article 5 / Article 32 issue; for privilege, it is a waiver event; for regulated professional contexts, it triggers referral pathways (e.g. Solicitors Regulation Authority for solicitors, ICO for personal data).
+- Uploading personal data, confidential information, or privileged communications to an **open-source / consumer-grade public LLM** is itself a disclosure event. For personal data, that raises UK GDPR Article 5 / Article 32 issues; for privilege, it may amount to waiver, and in *Munir* the Tribunal treated it that way on the facts; for regulated professional contexts, it may also trigger referral pathways (e.g. Solicitors Regulation Authority for solicitors, ICO for personal data).
 - **Tool architecture matters.** Closed-source / enterprise deployments that contractually exclude training use and isolate tenant data sit in a different risk category from public consumer chat interfaces. AI policies that treat "AI tools" as a single category fail to make the distinction Munir relies on.
 - **Supervisor accountability**: the Tribunal's reasoning that supervisors carry greater culpability than the staff who used the tool implies AI policy needs explicit allocation of supervisor responsibility for training, tooling choices, and oversight — not just user-facing acceptable use rules.
 
 ### Status
 
-The decision is a Upper Tribunal judgment within the Hamid supervisory jurisdiction. Its **direct binding effect** is on legal representatives before the IAC. Its **persuasive effect** outside that forum will be tested in other regulatory and professional-conduct contexts; firms in healthcare, financial services, education, and central government should treat it as setting a benchmark for what "putting confidential data into a public AI tool" means in UK law until higher appellate authority addresses the point.
+The decision is a reported Upper Tribunal judgment within the Hamid supervisory jurisdiction. It has immediate practical force for legal representatives appearing before the IAC and is a significant reported authority in that setting. Outside that forum, its effect is persuasive rather than universally binding, but firms in healthcare, financial services, education, and central government should still treat it as a serious signal of how UK decision-makers may view the use of public AI tools with confidential material until higher appellate authority addresses the point.
 
 ### Policy implication
 

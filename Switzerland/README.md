@@ -4,6 +4,11 @@ Switzerland has adopted a deliberately light-touch, technology-neutral approach 
 
 Switzerland's distinctive contribution is its international convening role: Geneva hosts the ITU AI for Good platform, and Switzerland positions itself as a neutral hub for AI governance diplomacy.
 
+## Note
+
+- This material is for research and comparison only, not legal advice.
+- Reviews in this directory were produced or assisted by AI and may contain mistakes or outdated interpretations; important points should be checked against the primary sources.
+
 ## Contents
 
 ```
