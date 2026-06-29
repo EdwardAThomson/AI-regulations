@@ -3,7 +3,7 @@
 *Research and comparison only, not legal advice. AI-assisted analysis; may contain errors, so verify all claims against the primary source document.*
 
 **Document:** Guidance Note on Consumer Protection and the Responsible Adoption and Use of Artificial Intelligence and Machine Learning by Licensed Financial Institutions in the U.A.E.
-**Issued:** Announced and issued around 23 February 2026 (file metadata dated December 2025)
+**Issued:** February 2026 (source Word document dated 23 December 2025; PDF rendered 10 March 2026 per file metadata; the guidance text itself is undated)
 **Issuing body:** Central Bank of the United Arab Emirates (CBUAE)
 **Legal status:** Non-binding supervisory guidance; expressed as "should" expectations; no penalties or standalone enforcement mechanism, but it supplements existing binding CBUAE regulations and standards
 **Scope:** Onshore CBUAE-licensed financial institutions ("LFIs"), expressly including insurance providers; ~7 pages

@@ -50,7 +50,7 @@ most concrete binding AI-adjacent rules; and sector regulators (Central Bank, SC
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| DIFC Data Protection Regulation 10: Processing Personal Data through Autonomous and Semi-Autonomous Systems | Sep 2023 (full enforcement Jan 2026) | DIFC Commissioner of Data Protection | Collected (consolidated DP Regulations, incl. Reg 10) |
+| DIFC Data Protection Regulation 10: Processing Personal Data through Autonomous and Semi-Autonomous Systems | Sep 2023 (high-risk certification/audit deferred to future Commissioner guidance) | DIFC Commissioner of Data Protection | Collected (consolidated DP Regulations, incl. Reg 10) |
 | DIFC Data Protection Law No. 5 of 2020 (parent law) | 2020 | DIFC | Lower priority |
 | ADGM Data Protection Regulations 2021 (+ 2024 / 2025 amendments) | 2021/2024/2025 | ADGM Office of Data Protection | Collected (2021 consolidated; amendments still needed) |
 | ADGM guidance on Big Data Analytics and AI (FSRA) | 2024+ | ADGM Financial Services Regulatory Authority | Lower priority |
@@ -59,7 +59,7 @@ most concrete binding AI-adjacent rules; and sector regulators (Central Bank, SC
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| CBUAE Guidance Note on Consumer Protection and Responsible Adoption and Use of AI and ML by LFIs | 23 Feb 2026 | Central Bank of the UAE (CBUAE) | Collected |
+| CBUAE Guidance Note on Consumer Protection and Responsible Adoption and Use of AI and ML by LFIs | Feb 2026 | Central Bank of the UAE (CBUAE) | Collected |
 | Guidelines for Financial Institutions Adopting Enabling Technologies | 15 Nov 2021 | CBUAE / SCA / DFSA / FSRA (joint) | Collected |
 | DFSA Artificial Intelligence Survey 2025 (DIFC adoption data) | 2025 | DFSA (DIFC) | Collected |
 | DFSA report: Cyber and AI Risk in Financial Services | 30 Jun 2025 | DFSA (DIFC) | Lower priority |
@@ -142,7 +142,7 @@ only (ADGM DP amendments 2024/2025, sector guides, and general-application feder
 - The most concrete binding AI-adjacent rule is DIFC Regulation 10 (Sep 2023), one of the
   first instruments in the region to directly regulate autonomous/semi-autonomous systems
   in a data-protection frame. It introduces notices, AI registers, certification, and an
-  Autonomous Systems Officer for high-risk processing. Full enforcement from Jan 2026.
+  Autonomous Systems Officer for high-risk processing. High-risk certification/audit requirements deferred to future Commissioner guidance (no date set in the Regulation).
 - ADGM and DIFC are independent common-law free zones with their own data-protection regimes;
   treat them as distinct sub-jurisdictions, not merely "Dubai" or "Abu Dhabi" law.
 - Strong "state-as-adopter" theme: AI minister (2017, world-first), Chief AI Officers across

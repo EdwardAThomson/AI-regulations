@@ -29,7 +29,7 @@ UAE/
 ├── source/                            # Source documents (PDFs)
 │   ├── inventory.md                   # Tracked list of documents to collect
 │   └── [source documents]
-└── analysis/                          # Reviews and analyses (not yet started)
+└── analysis/                          # Reviews and analyses
 ```
 
 ## Sources
@@ -57,7 +57,7 @@ status and direct links to primary documents.
 - **Abu Dhabi Law No. 3 of 2024**: establishes the AI and Advanced Technology Council (AIATC).
 
 ### Financial free zones (binding AI-adjacent rules)
-- **DIFC Data Protection Regulation 10** (Sep 2023, full enforcement Jan 2026): processing
+- **DIFC Data Protection Regulation 10** (Sep 2023; high-risk certification/audit deferred to future Commissioner guidance): processing
   personal data through autonomous/semi-autonomous systems; notices, AI registers,
   certification, Autonomous Systems Officer for high-risk processing. Definition drawn from
   OECD and EU AI Act concepts. Among the first instruments in the region to regulate AI directly.
@@ -103,9 +103,11 @@ All eight candidate reviews are complete.
    layered over generally applicable laws. This places the UAE alongside Singapore and the UK
    in the soft-law, pro-innovation camp rather than the EU's binding-statute camp.
 
-2. **Free zones do the regulatory heavy lifting.** DIFC Regulation 10 and the ADGM regime are
-   the only places with concrete, AI-specific binding obligations, and they reach only entities
-   established in those zones. This produces meaningful intra-UAE divergence.
+2. **Free zones do the regulatory heavy lifting.** DIFC Regulation 10 is the UAE's clearest
+   AI-specific binding rule, while the ADGM regime supplies a binding GDPR-style data-protection
+   overlay for automated decision-making rather than an AI-specific framework. Both reach only
+   entities established in their respective free zones. This produces meaningful intra-UAE
+   divergence.
 
 3. **State-as-adopter, not state-as-restrictor.** World-first AI minister (2017), Chief AI
    Officers, AI as advisory Cabinet member (Jan 2026), AI-assisted legislative drafting

@@ -28,7 +28,7 @@ DIFC and ADGM are independent common-law jurisdictions. A firm "in Dubai" could 
 
 ## Track 1: Onshore, the CBUAE
 
-### CBUAE Guidance Note on Responsible Use of AI and ML (23 February 2026)
+### CBUAE Guidance Note on Responsible Use of AI and ML (February 2026)
 
 The Central Bank's flagship AI instrument. Full title: *Guidance Note on the Consumer
 Protection and Responsible Adoption and Use of Artificial Intelligence and Machine Learning by
@@ -120,7 +120,7 @@ consumer-facing-AI report with the UK FCA in Jan 2025; published a Cyber and AI 
 (up from 33% in 2024), with generative-AI adoption up ~166%.
 
 **DIFC Regulation 10 (binding).** This is the part that bites. Regulation 10 of the DIFC Data
-Protection Regulations (in force 1 September 2023, full enforcement from January 2026) governs
+Protection Regulations (in force 1 September 2023; high-risk certification/audit deferred to future Commissioner guidance) governs
 processing of personal data through "autonomous and semi-autonomous systems" (i.e. AI). It is
 the first instrument in the MEASA region to regulate AI directly, and a DIFC-based financial
 firm using AI on personal data is squarely in scope. Key features:
@@ -174,8 +174,8 @@ Track-specific additions:
 - **Onshore (CBUAE):** align to the five principles and the "high-impact decision" framing; map
   AI governance onto the existing Model Management Standards and Consumer Protection Regulation.
 - **DIFC:** transparency notices, the AI register, human-intervention algorithms, and (for
-  high-risk processing) certification + an ASO under Regulation 10, ahead of full enforcement
-  from January 2026.
+  high-risk processing) certification + an ASO under Regulation 10, noting the high-risk
+  certification/audit requirements are deferred to future Commissioner guidance (no date set).
 - **ADGM:** automated-decision-making and transparency duties under the ADGM DP Regulations;
   use the sandbox for novel deployments.
 
@@ -211,8 +211,9 @@ expectation, anchored in existing frameworks" DNA seen in the
    underwriting, claims) or "high-risk processing" of personal data?
 4. **Does it use third-party / vendor or generative-AI models?** This triggers the outsourcing
    and black-box-documentation expectations.
-5. **DIFC firms:** is there a plan for Regulation 10 full enforcement (Jan 2026), including
-   appointing an Autonomous Systems Officer and certification for any high-risk processing?
+5. **DIFC firms:** is there a plan for Regulation 10's high-risk regime (certification/audit
+   requirements to be set by the Commissioner; no date yet), including appointing an Autonomous
+   Systems Officer and certification for any high-risk processing?
 
 ---
 
