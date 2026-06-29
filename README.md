@@ -19,6 +19,7 @@ Each country directory contains its own README with an overview, source inventor
 | [EU](EU/README.md) | Analysis complete | 10 | EU AI Act, GPAI Code of Practice, Commission Guidelines, Transparency Code, HLEG Ethics Guidelines |
 | [Singapore](Singapore/README.md) | Analysis complete | 9 | Model AI Governance Frameworks (base / GenAI / Agentic AI), NAIS 2.0, FEAT, PDPC, ASEAN Guides |
 | [Switzerland](Switzerland/README.md) | Analysis complete | 2 | Federal Council approach (no standalone AI law), FINMA AI governance guidance |
+| [UAE](UAE/README.md) | Sources collected; finance analysis done | 1 | National Strategy 2031, AI Charter (2024), DIFC Regulation 10, Dubai/Abu Dhabi bodies, CBUAE + free-zone financial-services AI governance |
 | [UK](UK/README.md) | Analysis complete | 14 | Pro-Innovation framework, AI Opportunities Action Plan, AISI, Playbook, DUAA 2025 |
 | [USA](USA/README.md) | Analysis complete | 5 | NIST AI RMF, Executive Orders (Biden/Trump), AI Action Plan, AI Bill of Rights, OMB governance |
 
@@ -28,14 +29,22 @@ Each country directory contains its own README with an overview, source inventor
 |------------|----------|
 | [UK vs EU](comparisons/UK-EU-comparison.md) | Dimension-by-dimension table, convergences, strategic implications |
 | [USA vs EU](comparisons/USA-EU-comparison.md) | Two poles of global AI governance; Brussels effect; administration volatility vs regulatory permanence |
-| [Small Open Economies: UK, Singapore, Switzerland](comparisons/small-open-economies-comparison.md) | Three-way comparison of jurisdictions that rejected comprehensive AI legislation |
+| [Soft-Law AI Jurisdictions: UK, Singapore, Switzerland, UAE, USA](comparisons/soft-law-ai-jurisdictions.md) | **Entry point** — top-level map of the soft-law field vs the EU's binding pole; routes down to the deep-dives below |
+| [Small Open Economies: UK, Singapore, Switzerland](comparisons/small-open-economies-comparison.md) | Deep-dive: the EU-floored trio that rejected comprehensive AI legislation |
+| [The UAE and the soft-law jurisdictions](comparisons/uae-soft-law-comparison.md) | Deep-dive: where the UAE fits the soft-law group and where it breaks the pattern (binding free-zone rules; no EU-floor anchor; state-as-adopter) |
 | [EFTA and AI Governance](comparisons/efta-ai-governance.md) | Norway, Iceland, Liechtenstein (EEA — AI Act binding) vs Switzerland (non-EEA) |
 | [GDPR as an AI Overlay (UK + EU)](comparisons/gdpr-as-ai-overlay.md) | Article 3 territorial scope, lawful basis, Article 22, DPIA / FRIA — how GDPR / UK GDPR functions as the de-facto AI overlay |
 | [UK vs Scotland](UK/analysis/UK-Scotland-comparison.md) | Intra-UK divergence on regulatory philosophy |
 
+## Sector Overviews
+
+| Overview | Location |
+|----------|----------|
+| [AI Governance in Financial Services](drafts/financial-services-ai-governance-cross-jurisdictional.md) | Cross-jurisdictional (EU, UK, Singapore, Switzerland, USA, UAE): binding vs voluntary, credit / insurance / trading use cases, compliance architecture for cross-border firms |
+
 ## Reference
 
-- [Glossary](glossary.md) — how key AI governance terms (provider, deployer, GPAI, risk classification, etc.) differ across the five jurisdictions
+- [Glossary](glossary.md) — how key AI governance terms (provider, deployer, GPAI, risk classification, etc.) differ across the six jurisdictions
 
 ## Methodology
 
@@ -102,6 +111,13 @@ USA/
   source/
     inventory.md
   analysis/
+UAE/
+  README.md                    # Country overview + source/analysis index
+  source/
+    inventory.md
+    [8 source PDFs]            # strategy, charter, DIFC/ADGM/CBUAE finance docs
+  analysis/
+    financial-services-ai-governance.md
 ```
 
 ## Related

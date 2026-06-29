@@ -1,5 +1,7 @@
 # Small Open Economies and AI Governance: UK, Singapore, Switzerland
 
+> Deep-dive. For the top-level map of the whole soft-law field (these three plus the UAE and USA), start at [Soft-Law AI Jurisdictions](soft-law-ai-jurisdictions.md).
+
 A comparison of three jurisdictions that rejected comprehensive AI legislation in favour of voluntary, sector-specific, or principles-based approaches — and all face the EU AI Act as the practical compliance floor for firms serving European markets.
 
 Based on 14 UK reviews, 5 Singapore analyses, 2 Switzerland reviews, and the [UK-EU comparison](UK-EU-comparison.md).
@@ -191,3 +193,4 @@ For firms and advisors working across these three jurisdictions:
 - [UK vs EU detailed comparison](UK-EU-comparison.md)
 - [EFTA and AI Governance](efta-ai-governance.md)
 - [UK vs Scotland comparison](../UK/analysis/UK-Scotland-comparison.md)
+- [The UAE and the soft-law jurisdictions](uae-soft-law-comparison.md) — adds a fourth jurisdiction that shares the soft-law label but breaks the EU-floor thesis (binding free-zone AI rules; state-as-adopter)

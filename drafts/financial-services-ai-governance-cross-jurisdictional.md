@@ -2,7 +2,7 @@
 
 Financial services is the sector with the most developed AI governance across jurisdictions. Every major financial regulator has addressed AI — through principles, supervisory guidance, or binding regulation. For firms operating across borders, this creates a layered compliance environment where domestic financial regulation sits alongside horizontal AI regulation.
 
-This overview covers five jurisdictions: the EU, UK, Singapore, Switzerland, and USA.
+This overview covers six jurisdictions: the EU, UK, Singapore, Switzerland, USA, and the UAE.
 
 ---
 
@@ -15,12 +15,13 @@ This overview covers five jurisdictions: the EU, UK, Singapore, Switzerland, and
 | **Singapore** | MAS FEAT Principles (Nov 2018) + Veritas Toolkit | Non-binding principles | 14 principles across Fairness, Ethics, Accountability, Transparency. Supported by the Veritas validation toolkit. MAS supervisory expectations |
 | **Switzerland** | FINMA Guidance 08/2024 | Supervisory guidance (non-binding but carries supervisory weight) | 7 areas of supervisory assessment based on on-site findings. Proportionate, materiality-based. Technology-neutral |
 | **USA** | No AI-specific financial regulation. Existing agency authority (OCC, Fed, FDIC, SEC, CFPB) | Existing law applies | Agencies enforce under existing authority (fair lending, consumer protection, prudential). No dedicated AI guidance from primary banking regulators. FTC enforcement under Section 5 |
+| **UAE** | CBUAE AI/ML Guidance Note (Feb 2026) onshore + joint Enabling Technologies Guidelines (2021); **DIFC Regulation 10** in the DIFC; ADGM DP Regulations in ADGM | **Split**: onshore CBUAE guidance non-binding; **DIFC Regulation 10 binding** | Depends on licensing sub-jurisdiction. Onshore CBUAE: 10-section consumer-protection guidance built around the "high-impact decision". DIFC: binding AI-in-data-protection rule (notices, AI register, certification, Autonomous Systems Officer). ADGM/FSRA: technology-neutral + GDPR-style automated-decision rule |
 
 ---
 
 ## What they share
 
-All five jurisdictions' financial-sector AI approaches share common DNA:
+All six jurisdictions' financial-sector AI approaches share common DNA (with the UAE's binding DIFC free-zone rules the partial exception, discussed under "Binding vs voluntary" below):
 
 1. **Principle-based, not rule-based.** None prescribes specific technical requirements for financial AI. All rely on principles (fairness, transparency, accountability) operationalised through existing supervisory relationships.
 
@@ -28,7 +29,7 @@ All five jurisdictions' financial-sector AI approaches share common DNA:
 
 3. **Existing frameworks as foundation.** All position AI governance within existing prudential and conduct regulation rather than creating standalone AI regimes for financial services. The logic: financial regulation already addresses most relevant risks (consumer protection, fair lending, operational resilience, model risk management); AI governance extends rather than replaces these frameworks.
 
-4. **Model risk management as entry point.** For firms with existing model risk management (MRM) frameworks, AI governance is an extension of MRM. All five jurisdictions effectively ask: does your model governance cover AI models? If not, extend it.
+4. **Model risk management as entry point.** For firms with existing model risk management (MRM) frameworks, AI governance is an extension of MRM. All six jurisdictions effectively ask: does your model governance cover AI models? If not, extend it. (The UAE's CBUAE guidance is explicit about this, telling institutions to follow the Model Management Standards.)
 
 5. **Third-party / outsourcing risk.** All recognise that financial firms increasingly use AI from external providers (cloud-hosted models, vendor AI tools) and expect firms to manage these dependencies — whether through outsourcing risk frameworks (MAS, FINMA, FCA) or supply-chain governance (EU AI Act Article 17).
 
@@ -40,7 +41,9 @@ All five jurisdictions' financial-sector AI approaches share common DNA:
 
 The EU is the outlier: the AI Act creates **binding horizontal obligations** that apply to financial services AI on top of existing prudential regulation. If a bank's credit-scoring system uses AI, it is potentially high-risk under Annex III point 5(b) (creditworthiness assessment) — triggering the full suite of high-risk obligations (conformity assessment, QMS, human oversight, incident reporting, etc.).
 
-All other jurisdictions rely on **supervisory expectations** within existing frameworks. The FCA, MAS, and FINMA can challenge a firm's AI governance through the supervisory process, but they don't have AI-specific binding rules.
+Most other jurisdictions rely on **supervisory expectations** within existing frameworks. The FCA, MAS, and FINMA can challenge a firm's AI governance through the supervisory process, but they don't have AI-specific binding rules.
+
+The **UAE is the second case with a binding element, but only in part.** Onshore, the CBUAE's 2026 guidance is non-binding (supervisory expectation, like FINMA). But a firm licensed in the **DIFC** is subject to **Regulation 10**, a binding rule that catches AI processing of personal data with notices, an AI register, certification, and an Autonomous Systems Officer for high-risk processing. So in the UAE, whether a financial firm faces a binding AI-specific obligation depends on **which sub-jurisdiction it is licensed in** (onshore CBUAE/SCA vs DIFC vs ADGM). Unlike the EU, the binding hook is a data-protection instrument, not a product-safety regime.
 
 **Practical consequence:** A bank operating in the EU and UK uses the same AI credit model in both jurisdictions. In the EU, it faces AI Act high-risk obligations (conformity assessment, Article 14 human oversight, Article 73 incident reporting). In the UK, it faces FCA supervisory expectations under Consumer Duty and existing model governance — but no AI-specific conformity assessment.
 
@@ -54,7 +57,9 @@ All other jurisdictions rely on **supervisory expectations** within existing fra
 
 **EU** is the most prescriptive: binding obligations with specified timelines, documentation requirements, and penalty structures.
 
-**USA** is the most fragmented: no single AI governance reference for financial services. Multiple agencies (OCC, Fed, FDIC, SEC, CFPB, FTC) apply existing authority case-by-case.
+**USA** is the most fragmented *across agencies*: no single AI governance reference for financial services. Multiple agencies (OCC, Fed, FDIC, SEC, CFPB, FTC) apply existing authority case-by-case.
+
+**UAE** is the most fragmented *across sub-jurisdictions*: a firm's AI obligations depend on whether it is licensed onshore (CBUAE/SCA), in the DIFC (DFSA + binding Regulation 10), or in the ADGM (FSRA). The CBUAE guidance itself is detailed (10 sections, consumer-protection-led, built around the "high-impact decision"), but it is one of three parallel regimes inside one country.
 
 ### Credit scoring and lending
 
@@ -65,6 +70,7 @@ This is the use case with the most direct cross-jurisdictional comparison:
 - **Singapore**: FEAT Principles 1-4 (fairness) require that individuals are not systematically disadvantaged. Model accuracy and bias reviewed regularly. No binding classification.
 - **Switzerland**: FINMA expects risk classification, testing, documentation, and explainability for material AI applications including credit models. No binding AI classification.
 - **USA**: Fair lending laws (ECOA, FHA) prohibit discrimination. OCC/Fed model risk management guidance (SR 11-7) applies to AI models. CFPB has signalled enforcement interest in AI lending. No AI-specific classification.
+- **UAE**: A credit decision is the CBUAE's archetypal "high-impact decision" (its own example is a loan application): expect documented governance, bias testing, explainability, and human oversight onshore. In the DIFC, an AI credit model processing personal data is inside Regulation 10; and all three data-protection regimes (federal PDPL, DIFC DP Law, ADGM s.20) restrict solely-automated decisions with significant effect. No EU-style classification.
 
 ### Insurance underwriting
 
@@ -73,6 +79,7 @@ This is the use case with the most direct cross-jurisdictional comparison:
 - **Singapore**: FEAT Principles apply through MAS supervisory expectations.
 - **Switzerland**: FINMA Guidance covers insurance AI through the same materiality framework.
 - **USA**: State insurance regulators are primary; NAIC has issued AI guidance; no federal AI classification.
+- **UAE**: An insurance claim is the CBUAE's other named "high-impact decision" example; the guidance covers insurers (LFIs) explicitly. DIFC-licensed insurers using AI on personal data fall under Regulation 10. No EU-style classification.
 
 ### Algorithmic trading
 
@@ -81,6 +88,7 @@ This is the use case with the most direct cross-jurisdictional comparison:
 - **Singapore**: MAS existing framework covers algorithmic trading.
 - **Switzerland**: FINMA existing framework applies.
 - **USA**: SEC and CFTC regulate algorithmic trading under existing authority. No AI-specific overlay.
+- **UAE**: SCA (onshore), DFSA (DIFC) and FSRA (ADGM) regulate trading under existing market-conduct rules. No AI-specific overlay; the CBUAE guidance is consumer-protection-focused, so its weight on trading AI is limited.
 
 ---
 
@@ -103,7 +111,7 @@ For each AI application in financial services, the cross-jurisdictional complian
 - **Is this a high-risk AI system under the EU AI Act?** If yes: full high-risk obligations in EU operations, regardless of what other jurisdictions require.
 - **Does this touch consumer decisions?** If yes: consumer protection obligations in all jurisdictions (Consumer Duty in UK, FEAT fairness in Singapore, fair lending in USA).
 - **Is this a material application under internal risk classification?** If yes: MRM-level governance in all jurisdictions where you operate.
-- **Does this involve personal data?** If yes: GDPR/UK GDPR/PDPA/revFADP data protection obligations apply alongside AI governance.
+- **Does this involve personal data?** If yes: GDPR/UK GDPR/PDPA/revFADP/UAE-PDPL (and, in the free zones, DIFC DP Law or ADGM DP Regulations) data protection obligations apply alongside AI governance. In the UAE this is the main binding hook: the DIFC and ADGM automated-decision rules and DIFC Regulation 10 all trigger through personal data.
 
 ### Where deeper analysis adds value
 
@@ -127,3 +135,4 @@ This overview draws on the following reviews from the [AI Regulations repository
 - [Switzerland FINMA Guidance 08/2024](https://github.com/EdwardAThomson/AI-regulations/blob/main/Switzerland/analysis/review-claude/02-finma-guidance-ai-governance.md)
 - [EU AI Act](https://github.com/EdwardAThomson/AI-regulations/blob/main/EU/analysis/review-claude/01-eu-ai-act.md)
 - [USA NIST AI RMF](https://github.com/EdwardAThomson/AI-regulations/blob/main/USA/analysis/review-claude/01-nist-ai-rmf.md)
+- [UAE financial-services AI governance](https://github.com/EdwardAThomson/AI-regulations/blob/main/UAE/analysis/financial-services-ai-governance.md)
