@@ -36,7 +36,7 @@ most concrete binding AI-adjacent rules; and sector regulators (Central Bank, SC
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
 | Dubai AI Principles and Ethics Guidelines (+ AI Ethics Self-Assessment Tool) | Jan 2019 (tool updated 2022/2023) | Digital Dubai (formerly Smart Dubai) | Collected |
-| Dubai Universal Blueprint for Artificial Intelligence | Apr 2024 | Dubai Executive Council | Needed |
+| Dubai Universal Blueprint for Artificial Intelligence | Apr 2024 | Dubai Executive Council | Collected (source note, compiled from official sources) |
 | Dubai Health Authority AI Policy in Healthcare | n/a | Dubai Health Authority | Lower priority |
 | Dubai Law No. 9 of 2023 on Autonomous Vehicles | 2023 | Government of Dubai (RTA) | Lower priority |
 
@@ -44,7 +44,7 @@ most concrete binding AI-adjacent rules; and sector regulators (Central Bank, SC
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| Abu Dhabi Law No. 3 of 2024 establishing the AI and Advanced Technology Council (AIATC) | Jan 2024 | Government of Abu Dhabi | Needed |
+| Abu Dhabi Law No. 3 of 2024 establishing the AI and Advanced Technology Council (AIATC) | Jan 2024 | Government of Abu Dhabi | Collected (source note, compiled from official sources) |
 
 ## Financial free zones (most concrete binding AI-adjacent rules)
 
@@ -113,8 +113,13 @@ most concrete binding AI-adjacent rules; and sector regulators (Central Bank, SC
 | `DFSA-AI-Survey-2025.pdf` | DIFC AI-adoption data (finance) |
 | `DIFC-Data-Protection-Regulations-Consolidated-Reg10-Sep-2023.pdf` | Includes Regulation 10 (binding AI rule) |
 | `ADGM-Data-Protection-Regulations-2021-Consolidated.pdf` | ADGM DP regime |
+| `Dubai-Universal-Blueprint-AI-Apr-2024.md` | Source note compiled from official sources (no primary PDF) |
+| `Abu-Dhabi-Law-3-2024-AIATC-Jan-2024.md` | Source note compiled from official sources (Arabic law not freely published) |
 
-All priority documents are now collected. The National Strategy was retrieved from the Internet
+All priority documents are now collected, and all eight candidate reviews are written
+(see [`../analysis/review-claude/`](../analysis/review-claude/)). The Dubai Blueprint and the
+Abu Dhabi AIATC law are held as markdown source notes (no clean primary document is published);
+swap in primary copies if they become available. The National Strategy was retrieved from the Internet
 Archive because ai.gov.ae blocks direct/automated download; if a pristine official copy is
 preferred, replace it from ai.gov.ae in a browser. Remaining gaps are "Lower priority" items
 only (ADGM DP amendments 2024/2025, sector guides, and general-application federal laws).

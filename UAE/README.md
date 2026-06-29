@@ -81,6 +81,13 @@ Observations across analytical lenses, Overall assessment).
 | 01 | Oct 2017 | [National Strategy for AI 2031](analysis/review-claude/01-national-strategy-2031.md) | Vision document, non-binding |
 | 02 | Jul 2024 | [UAE Charter for the Development and Use of AI](analysis/review-claude/02-uae-charter-ai.md) | Voluntary ethics charter |
 | 03 | Sep 2023 | [DIFC Regulation 10 (autonomous/semi-autonomous systems)](analysis/review-claude/03-difc-regulation-10.md) | Binding (DIFC free zone) |
+| 04 | Jan 2019 | [Dubai AI Ethics Principles and Guidelines](analysis/review-claude/04-dubai-ai-ethics.md) | Voluntary (Dubai emirate) |
+| 05 | Apr 2024 | [Dubai Universal Blueprint for AI](analysis/review-claude/05-dubai-universal-blueprint.md) | Government programme (Dubai) |
+| 06 | Jan 2024 | [Abu Dhabi AIATC (Law No. 3 of 2024)](analysis/review-claude/06-abu-dhabi-aiatc.md) | Binding constitutive law (Abu Dhabi) |
+| 07 | 2021 | [ADGM Data Protection Regulations: AI provisions](analysis/review-claude/07-adgm-data-protection-ai.md) | Binding (ADGM free zone), not AI-specific |
+| 08 | Feb 2026 | [CBUAE AI/ML Guidance for financial institutions](analysis/review-claude/08-cbuae-ai-guidance.md) | Non-binding supervisory (onshore) |
+
+All eight candidate reviews are complete.
 
 ### Sector analysis, [`analysis/`](analysis/)
 
@@ -89,16 +96,6 @@ Observations across analytical lenses, Overall assessment).
   CBUAE Feb 2026 Guidance Note (full 10-section text), the 2021 joint Enabling Technologies
   Guidelines, and DIFC Regulation 10. Includes a practical obligations checklist and open
   questions for a firm operating in the UAE.
-
-### Remaining candidate reviews
-
-| # | Suggested review | Priority | Source held? |
-|---|------------------|----------|--------------|
-| 04 | Dubai AI Principles, Ethics Guidelines and Self-Assessment Tool | Medium | Yes |
-| 05 | Dubai Universal Blueprint for AI | Medium | Needs collection |
-| 06 | Abu Dhabi AIATC (Law No. 3 of 2024) | Medium | Needs collection |
-| 07 | ADGM data-protection AI provisions | Medium | Yes |
-| 08 | CBUAE responsible AI guidance (financial services) | Medium | Yes |
 
 ## Key features of the UAE landscape
 

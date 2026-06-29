@@ -19,7 +19,7 @@ Each country directory contains its own README with an overview, source inventor
 | [EU](EU/README.md) | Analysis complete | 10 | EU AI Act, GPAI Code of Practice, Commission Guidelines, Transparency Code, HLEG Ethics Guidelines |
 | [Singapore](Singapore/README.md) | Analysis complete | 9 | Model AI Governance Frameworks (base / GenAI / Agentic AI), NAIS 2.0, FEAT, PDPC, ASEAN Guides |
 | [Switzerland](Switzerland/README.md) | Analysis complete | 2 | Federal Council approach (no standalone AI law), FINMA AI governance guidance |
-| [UAE](UAE/README.md) | Sources collected; finance analysis done | 1 | National Strategy 2031, AI Charter (2024), DIFC Regulation 10, Dubai/Abu Dhabi bodies, CBUAE + free-zone financial-services AI governance |
+| [UAE](UAE/README.md) | Analysis complete | 9 | National Strategy 2031, AI Charter (2024), DIFC Regulation 10, Dubai AI Ethics + Universal Blueprint, Abu Dhabi AIATC, ADGM + CBUAE financial-services AI governance |
 | [UK](UK/README.md) | Analysis complete | 14 | Pro-Innovation framework, AI Opportunities Action Plan, AISI, Playbook, DUAA 2025 |
 | [USA](USA/README.md) | Analysis complete | 5 | NIST AI RMF, Executive Orders (Biden/Trump), AI Action Plan, AI Bill of Rights, OMB governance |
 
