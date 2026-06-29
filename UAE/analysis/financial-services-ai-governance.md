@@ -1,4 +1,4 @@
-# UAE — AI Governance in Financial Services
+# UAE: AI Governance in Financial Services
 
 A practical map of how AI is governed for financial institutions in the UAE. This is the most
 developed corner of the UAE's AI landscape, and it is unusual in one respect: which rules
@@ -26,7 +26,7 @@ DIFC and ADGM are independent common-law jurisdictions. A firm "in Dubai" could 
 
 ---
 
-## Track 1 — Onshore: the CBUAE
+## Track 1: Onshore, the CBUAE
 
 ### CBUAE Guidance Note on Responsible Use of AI and ML (23 February 2026)
 
@@ -51,29 +51,29 @@ governance and transparency is expected.
 
 **Ten sections** (grounded in the issued text, `CBUAE-Guidance-Responsible-AI-ML-Feb-2026.pdf`):
 
-1. **Definitions** — AI, GenAI, ML, high-impact decision, MMS.
-2. **Governance and accountability** — documented framework proportionate to size/nature/
+1. **Definitions**: AI, GenAI, ML, high-impact decision, MMS.
+2. **Governance and accountability**: documented framework proportionate to size/nature/
    complexity; Board and senior management accountable; "LFIs should not employ AI models that
    they have no control over"; AI risk built into the risk-management framework; control
    functions must understand and be able to challenge AI.
-3. **Fairness / non-discrimination and ethics** — no discriminatory or manipulative outcomes;
+3. **Fairness / non-discrimination and ethics**: no discriminatory or manipulative outcomes;
    representative training data; bias testing at least annually and on material change/upgrade.
-4. **Transparency and explainability** — disclose AI use (especially high-impact decisions and
+4. **Transparency and explainability**: disclose AI use (especially high-impact decisions and
    when a customer interacts with an AI); plain-language disclosures **in Arabic and English**,
    phone support in major UAE languages; consider **opt-out rights** from AI for high-impact decisions.
-5. **Data quality, privacy and security** — accurate data with provenance/audit trails; PDPL and
+5. **Data quality, privacy and security**: accurate data with provenance/audit trails; PDPL and
    Information Assurance Regulation compliance; **data-residency** ("retained in the country");
    privacy-by-design and security-by-design; stress testing; operational resilience; use AI to
    help detect fraud/AML issues and report as required.
-6. **Continuous monitoring and review** — ongoing monitoring; periodic independent challenge of AI
+6. **Continuous monitoring and review**: ongoing monitoring; periodic independent challenge of AI
    (including third-party providers); test automatic updates before deployment; ability to detect,
    report and remediate issues; **retain the immediate ability, with human intervention, to cease
    use** of any AI; responsibility for outsourced AI is retained.
-7. **Human oversight and consumer protection** — meaningful human oversight, especially for
+7. **Human oversight and consumer protection**: meaningful human oversight, especially for
    decisions with significant consumer implications; human-in-the-loop / human-on-the-loop /
    human-out-of-the-loop models.
-8. **Integration with existing frameworks** — sits on top of existing CBUAE regulation/standards.
-9. **Outsourcing and third-party risk** — contractual audit and information rights, notice of
+8. **Integration with existing frameworks**: sits on top of existing CBUAE regulation/standards.
+9. **Outsourcing and third-party risk**: contractual audit and information rights, notice of
    material developments, termination rights, data protection, cyber security, performance.
 10. **Ethical collaboration and innovation.**
 
@@ -90,7 +90,7 @@ technology-neutral application of existing conduct and systems requirements.
 
 ---
 
-## Track 2 — The cross-cutting instrument: joint Enabling Technologies Guidelines (Nov 2021)
+## Track 2: The cross-cutting instrument, the joint Enabling Technologies Guidelines (Nov 2021)
 
 The one document that reaches across all four financial regulators. Full title: *Guidelines for
 Financial Institutions Adopting Enabling Technologies*, jointly issued 15 November 2021 by the
@@ -109,7 +109,7 @@ processing inside the DIFC.
 
 ---
 
-## Track 3 — The free zones
+## Track 3: The free zones
 
 ### DIFC (regulator: DFSA; plus Commissioner of Data Protection)
 

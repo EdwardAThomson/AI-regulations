@@ -29,7 +29,7 @@ Each country directory contains its own README with an overview, source inventor
 |------------|----------|
 | [UK vs EU](comparisons/UK-EU-comparison.md) | Dimension-by-dimension table, convergences, strategic implications |
 | [USA vs EU](comparisons/USA-EU-comparison.md) | Two poles of global AI governance; Brussels effect; administration volatility vs regulatory permanence |
-| [Soft-Law AI Jurisdictions: UK, Singapore, Switzerland, UAE, USA](comparisons/soft-law-ai-jurisdictions.md) | **Entry point** — top-level map of the soft-law field vs the EU's binding pole; routes down to the deep-dives below |
+| [Soft-Law AI Jurisdictions: UK, Singapore, Switzerland, UAE, USA](comparisons/soft-law-ai-jurisdictions.md) | **Entry point**: top-level map of the soft-law field vs the EU's binding pole; routes down to the deep-dives below |
 | [Small Open Economies: UK, Singapore, Switzerland](comparisons/small-open-economies-comparison.md) | Deep-dive: the EU-floored trio that rejected comprehensive AI legislation |
 | [The UAE and the soft-law jurisdictions](comparisons/uae-soft-law-comparison.md) | Deep-dive: where the UAE fits the soft-law group and where it breaks the pattern (binding free-zone rules; no EU-floor anchor; state-as-adopter) |
 | [EFTA and AI Governance](comparisons/efta-ai-governance.md) | Norway, Iceland, Liechtenstein (EEA — AI Act binding) vs Switzerland (non-EEA) |

@@ -28,9 +28,9 @@ Different jurisdictions use different terms for similar concepts — and sometim
 | **UK** | Developer | Used in policy documents; no statutory definition |
 | **Singapore** | AI Solution Provider | Develops AI solutions or application systems that make use of AI technology (Model Framework 2020) |
 | **Switzerland** | No specific term | FINMA uses "supervised institutions" for entities using AI in financial services |
-| **UAE** | Provider (DIFC only) | **DIFC Regulation 10** defines "Provider" — a person that develops a System, or has one developed, to make it available to Operators or Deployers. Borrowed from the EU AI Act. No federal equivalent |
+| **UAE** | Provider (DIFC only) | **DIFC Regulation 10** defines "Provider": a person that develops a System, or has one developed, to make it available to Operators or Deployers. Borrowed from the EU AI Act. No federal equivalent |
 
-**Key difference**: The EU's "provider" has specific legal obligations attached. Most other jurisdictions use "developer" or "provider" descriptively without binding consequences — the exception is the UAE's DIFC, where "Provider" is a defined role under binding Regulation 10.
+**Key difference**: The EU's "provider" has specific legal obligations attached. Most other jurisdictions use "developer" or "provider" descriptively without binding consequences; the exception is the UAE's DIFC, where "Provider" is a defined role under binding Regulation 10.
 
 ---
 
@@ -45,7 +45,7 @@ Different jurisdictions use different terms for similar concepts — and sometim
 | **Switzerland** | Supervised institution (financial sector) | FINMA's term for entities subject to its AI governance guidance |
 | **UAE** | Deployer / Operator (DIFC only) | **DIFC Regulation 10** defines "Deployer" (the person under whose authority or for whose benefit a System operates, made accountable like a controller) and "Operator" (runs the System for the Deployer, like a processor). Both borrowed from the EU AI Act. No federal equivalent |
 
-**Key difference**: The EU's "deployer" has specific legal obligations (human oversight, monitoring, log-keeping for high-risk systems, transparency disclosures). Most jurisdictions do not create a distinct legal category for deployers — the exception is the UAE's DIFC, which makes the "Deployer" of an AI system accountable under binding Regulation 10.
+**Key difference**: The EU's "deployer" has specific legal obligations (human oversight, monitoring, log-keeping for high-risk systems, transparency disclosures). Most jurisdictions do not create a distinct legal category for deployers; the exception is the UAE's DIFC, which makes the "Deployer" of an AI system accountable under binding Regulation 10.
 
 ---
 
@@ -87,7 +87,7 @@ Different jurisdictions use different terms for similar concepts — and sometim
 | **Human-on-the-loop (HOTL)** | Article 14 references; human monitoring with ability to intervene | "Human-over-the-loop" — supervisory role with ability to take over | Referenced | AI works autonomously for routine tasks; a human monitors and can intervene |
 | **Human-out-of-the-loop (HOOTL)** | Not a compliance option for high-risk systems | Defined; no human oversight, AI has full control (acceptable for low-risk uses) | Not explicitly named but acknowledged in risk discussion | Only for low-risk, non-material processes; fully automated credit/insurance decisions are unlikely to meet supervisory expectations |
 
-**Key difference**: The EU requires human oversight for high-risk systems (HITL or HOTL). Singapore's framework allows HOOTL for low-severity, low-probability applications. The terminology originated in Singapore's 2019/2020 framework and was subsequently adopted by the EU — and now, near-verbatim, by the UAE's CBUAE guidance.
+**Key difference**: The EU requires human oversight for high-risk systems (HITL or HOTL). Singapore's framework allows HOOTL for low-severity, low-probability applications. The terminology originated in Singapore's 2019/2020 framework and was subsequently adopted by the EU, and now, near-verbatim, by the UAE's CBUAE guidance.
 
 ---
 
@@ -165,4 +165,4 @@ Different jurisdictions use different terms for similar concepts — and sometim
 | **UK** | No — DUAA 2025 and sector-regulator frameworks apply to UK-established entities and UK data subjects |
 | **Singapore** | No — voluntary frameworks apply to organisations deploying AI in Singapore |
 | **Switzerland** | No — domestic frameworks apply within Switzerland; Swiss firms serving EU comply with AI Act directly |
-| **UAE** | Largely territorial — the federal PDPL applies to processing in the UAE; DIFC and ADGM rules apply to entities established in those free zones. No EU-style market-reach extraterritoriality |
+| **UAE** | Largely territorial: the federal PDPL applies to processing in the UAE; DIFC and ADGM rules apply to entities established in those free zones. No EU-style market-reach extraterritoriality |

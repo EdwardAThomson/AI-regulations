@@ -1,4 +1,4 @@
-# UAE — Source Document Inventory
+# UAE: Source Document Inventory
 
 Documents to collect for analysis of the United Arab Emirates' AI governance landscape.
 
@@ -50,7 +50,7 @@ most concrete binding AI-adjacent rules; and sector regulators (Central Bank, SC
 
 | Document | Date | Issuing Body | Status |
 |----------|------|-------------|--------|
-| DIFC Data Protection Regulation 10 — Processing Personal Data through Autonomous and Semi-Autonomous Systems | Sep 2023 (full enforcement Jan 2026) | DIFC Commissioner of Data Protection | Collected (consolidated DP Regulations, incl. Reg 10) |
+| DIFC Data Protection Regulation 10: Processing Personal Data through Autonomous and Semi-Autonomous Systems | Sep 2023 (full enforcement Jan 2026) | DIFC Commissioner of Data Protection | Collected (consolidated DP Regulations, incl. Reg 10) |
 | DIFC Data Protection Law No. 5 of 2020 (parent law) | 2020 | DIFC | Lower priority |
 | ADGM Data Protection Regulations 2021 (+ 2024 / 2025 amendments) | 2021/2024/2025 | ADGM Office of Data Protection | Collected (2021 consolidated; amendments still needed) |
 | ADGM guidance on Big Data Analytics and AI (FSRA) | 2024+ | ADGM Financial Services Regulatory Authority | Lower priority |
@@ -123,9 +123,9 @@ only (ADGM DP amendments 2024/2025, sector guides, and general-application feder
 
 - Latham & Watkins, "AI in the UAE: Understanding the Regulatory Landscape and Key Authorities" (Oct 2025): https://www.lw.com/en/insights/ai-in-the-uae-understanding-the-regulatory-landscape-and-key-authorities
 - IAPP, "Global AI Governance Law and Policy: United Arab Emirates": https://iapp.org/resources/article/global-ai-governance-uae
-- Chambers, "Artificial Intelligence 2025 — UAE": https://practiceguides.chambers.com/practice-guides/artificial-intelligence-2025/uae
-- CMS Expert Guide, AI regulation — UAE: https://cms.law/en/int/expert-guides/ai-regulation-scanner/united-arab-emirates
-- Bird & Bird, AI Regulatory Horizon Tracker — UAE: https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/ai-regulatory-horizon-tracker/uae
+- Chambers, "Artificial Intelligence 2025: UAE": https://practiceguides.chambers.com/practice-guides/artificial-intelligence-2025/uae
+- CMS Expert Guide, AI regulation: UAE: https://cms.law/en/int/expert-guides/ai-regulation-scanner/united-arab-emirates
+- Bird & Bird, AI Regulatory Horizon Tracker: UAE: https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/ai-regulatory-horizon-tracker/uae
 
 ---
 

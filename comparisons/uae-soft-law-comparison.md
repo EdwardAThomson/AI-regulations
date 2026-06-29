@@ -37,13 +37,13 @@ Based on the [UAE analyses](../UAE/README.md), the three trio jurisdictions' rev
 | Dimension | UK | Singapore | Switzerland | **UAE** |
 |-----------|----|-----------|----|---------|
 | **Primary AI instrument** | Pro-Innovation White Paper + 5 principles via regulators | Model AI Governance Framework stack (2020 → 2024 → 2026) | Federal Council decision (Feb 2025) + CoE Convention | National Strategy for AI 2031 + voluntary **UAE Charter** (12 principles, 2024) |
-| **Binding AI-specific obligations** | None | None | None | **Yes, in free zones** — DIFC Regulation 10 (autonomous/semi-autonomous systems), in force 2023, full enforcement Jan 2026 |
+| **Binding AI-specific obligations** | None | None | None | **Yes, in free zones**: DIFC Regulation 10 (autonomous/semi-autonomous systems), in force 2023, full enforcement Jan 2026 |
 | **Legal form** | Non-statutory policy | Voluntary frameworks | No AI-specific law; bill due end 2026 | Voluntary federally; **binding free-zone data-protection rules**; governance by decree |
 | **Internal fragmentation** | Unitary | Unitary | Federal but unitary AI posture | **Three regimes in one country**: onshore (CBUAE/SCA), DIFC (DFSA), ADGM (FSRA) |
 | **External compliance anchor** | EU AI Act (commercial) | EU AI Act (commercial) + ASEAN | **EU AI Act (treaty-adjacent)** + CoE Convention | **No single anchor**; OECD/UNESCO/NIST referenced in DIFC Reg 10; not a CoE Convention signatory; Gulf/MENA/Asia orientation |
 | **Distinctive institution** | **AISI** (frontier safety evals) | **AI Verify Foundation** (testing tools) | Geneva diplomatic hub | **AI Office + Abu Dhabi AIATC**; world-first AI minister (2017) |
-| **State-as-adopter** | Moderate (public-sector Playbook) | Moderate (gov adoption) | Low | **Very high** — Chief AI Officers across government, AI as advisory Cabinet member (Jan 2026), AI-assisted legislative drafting (2025) |
-| **Industrial / sovereign-AI policy** | Compute investment (AIRR, Growth Zones) | Crowd-in compute via CSPs | None specific | **Strong** — Falcon (TII), MBZUAI, G42, Stargate UAE; sovereign models and mega-compute |
+| **State-as-adopter** | Moderate (public-sector Playbook) | Moderate (gov adoption) | Low | **Very high**: Chief AI Officers across government, AI as advisory Cabinet member (Jan 2026), AI-assisted legislative drafting (2025) |
+| **Industrial / sovereign-AI policy** | Compute investment (AIRR, Growth Zones) | Crowd-in compute via CSPs | None specific | **Strong**: Falcon (TII), MBZUAI, G42, Stargate UAE; sovereign models and mega-compute |
 | **Financial-sector guidance** | FCA AI Update (2024) | MAS FEAT (2018) + Veritas | FINMA 08/2024 | CBUAE AI/ML Guidance (2026) onshore + **DIFC Reg 10 (binding)** + ADGM DP + joint 2021 guidelines |
 | **GDP (2024 est.)** | ~$3.5tn | ~$500bn | ~$900bn | ~$500bn |
 | **Population** | ~68m | ~6m | ~9m | ~10m (majority expatriate) |
@@ -55,7 +55,7 @@ Based on the [UAE analyses](../UAE/README.md), the three trio jurisdictions' rev
 ### 1. It has binding AI-specific obligations (the others do not)
 
 This is the single biggest divergence. The trio's defining feature is that **no firm faces a
-binding AI-specific obligation under domestic law** — governance is voluntary or rides on
+binding AI-specific obligation under domestic law**: governance is voluntary or rides on
 existing regulators' general powers. The UAE is different: a firm established in the **DIFC** that
 processes personal data through autonomous or semi-autonomous systems is subject to **DIFC
 Regulation 10**, which imposes binding duties (transparency notices, an AI register,

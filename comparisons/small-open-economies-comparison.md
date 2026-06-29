@@ -193,4 +193,4 @@ For firms and advisors working across these three jurisdictions:
 - [UK vs EU detailed comparison](UK-EU-comparison.md)
 - [EFTA and AI Governance](efta-ai-governance.md)
 - [UK vs Scotland comparison](../UK/analysis/UK-Scotland-comparison.md)
-- [The UAE and the soft-law jurisdictions](uae-soft-law-comparison.md) — adds a fourth jurisdiction that shares the soft-law label but breaks the EU-floor thesis (binding free-zone AI rules; state-as-adopter)
+- [The UAE and the soft-law jurisdictions](uae-soft-law-comparison.md): adds a fourth jurisdiction that shares the soft-law label but breaks the EU-floor thesis (binding free-zone AI rules; state-as-adopter)

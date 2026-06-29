@@ -1,8 +1,8 @@
-# UAE — AI Governance
+# UAE: AI Governance
 
 The United Arab Emirates has no single comprehensive, binding AI statute. Its position is a
 layered patchwork: an ambitious federal strategy (National Strategy for AI 2031) and a
-voluntary 12-principle ethics Charter (June 2024) sitting over generally applicable federal
+voluntary 12-principle ethics Charter (July 2024) sitting over generally applicable federal
 laws (data protection, copyright, cybercrime); emirate-level strategies and bodies in Dubai
 and Abu Dhabi; and independent common-law financial free zones (DIFC, ADGM) that contain the
 most concrete binding AI-adjacent rules. Sector regulators (the Central Bank, SCA, health
@@ -38,58 +38,67 @@ See [`source/inventory.md`](source/inventory.md) for the full inventory, with co
 status and direct links to primary documents.
 
 ### Federal strategy and ethics
-- **National Strategy for Artificial Intelligence 2031** (Oct 2017) — global AI leadership by
+- **National Strategy for Artificial Intelligence 2031** (Oct 2017): global AI leadership by
   2031; priority sectors; ties to UAE Centennial 2071.
-- **UAE Charter for the Development and Use of AI** (Jun 2024) — voluntary, 12 ethical
+- **UAE Charter for the Development and Use of AI** (Jul 2024): voluntary, 12 ethical
   principles (human oversight, safety, bias mitigation, privacy, transparency, accountability).
-- **AI Ethics Guide** (Dec 2022) — non-binding federal framework.
+- **AI Ethics Guide** (Dec 2022): non-binding federal framework.
 
 ### Federal laws of general application (AI-relevant)
-- **Federal Decree-Law No. 45 of 2021 (PDPL)** — the de-facto data-protection overlay on AI.
-- **Copyright** (Decree-Law 38/2021) and **Cybercrime** (Decree-Law 34/2021) — apply to AI
+- **Federal Decree-Law No. 45 of 2021 (PDPL)**: the de-facto data-protection overlay on AI.
+- **Copyright** (Decree-Law 38/2021) and **Cybercrime** (Decree-Law 34/2021): apply to AI
   outputs and misuse.
 
 ### Emirate-level
-- **Dubai AI Principles and Ethics Guidelines** (2019) + **AI Ethics Self-Assessment Tool** —
+- **Dubai AI Principles and Ethics Guidelines** (2019) + **AI Ethics Self-Assessment Tool**:
   Digital Dubai; voluntary; four sub-principles (fair, accountable, transparent, explainable).
-- **Dubai Universal Blueprint for AI** (Apr 2024) — emirate-wide roadmap; Chief AI Officers;
+- **Dubai Universal Blueprint for AI** (Apr 2024): emirate-wide roadmap; Chief AI Officers;
   regulatory/governance sandbox; AI commercial licence.
-- **Abu Dhabi Law No. 3 of 2024** — establishes the AI and Advanced Technology Council (AIATC).
+- **Abu Dhabi Law No. 3 of 2024**: establishes the AI and Advanced Technology Council (AIATC).
 
 ### Financial free zones (binding AI-adjacent rules)
-- **DIFC Data Protection Regulation 10** (Sep 2023, full enforcement Jan 2026) — processing
+- **DIFC Data Protection Regulation 10** (Sep 2023, full enforcement Jan 2026): processing
   personal data through autonomous/semi-autonomous systems; notices, AI registers,
   certification, Autonomous Systems Officer for high-risk processing. Definition drawn from
   OECD and EU AI Act concepts. Among the first instruments in the region to regulate AI directly.
-- **ADGM Data Protection Regulations** (2021, amended 2024/2025) — automated decision-making,
+- **ADGM Data Protection Regulations** (2021, amended 2024/2025): automated decision-making,
   algorithmic transparency, human oversight; FSRA guidance on big-data analytics and AI.
 
 ### Sector: financial services
-- **CBUAE Guidance on Responsible Use of AI and ML** (Feb 2026) — non-binding expectations for
+- **CBUAE Guidance on Responsible Use of AI and ML** (Feb 2026): non-binding expectations for
   licensed financial institutions: documented governance, risk management, fairness, testing,
   transparency (Arabic + English), consumer right to human review, human oversight models.
 
 ## Analysis
 
-### Completed
-- [**Financial services AI governance**](analysis/financial-services-ai-governance.md) —
+### Section-level reviews, [`analysis/review-claude/`](analysis/review-claude/)
+
+Document-level reviews following [`../methodology.md`](../methodology.md) (Summary, Key points,
+Observations across analytical lenses, Overall assessment).
+
+| # | Date | Review | Legal status |
+|---|------|--------|--------------|
+| 01 | Oct 2017 | [National Strategy for AI 2031](analysis/review-claude/01-national-strategy-2031.md) | Vision document, non-binding |
+| 02 | Jul 2024 | [UAE Charter for the Development and Use of AI](analysis/review-claude/02-uae-charter-ai.md) | Voluntary ethics charter |
+| 03 | Sep 2023 | [DIFC Regulation 10 (autonomous/semi-autonomous systems)](analysis/review-claude/03-difc-regulation-10.md) | Binding (DIFC free zone) |
+
+### Sector analysis, [`analysis/`](analysis/)
+
+- [**Financial services AI governance**](analysis/financial-services-ai-governance.md):
   the three parallel financial jurisdictions (onshore CBUAE/SCA, DIFC/DFSA, ADGM/FSRA), the
   CBUAE Feb 2026 Guidance Note (full 10-section text), the 2021 joint Enabling Technologies
   Guidelines, and DIFC Regulation 10. Includes a practical obligations checklist and open
   questions for a firm operating in the UAE.
 
-### Candidate review set (following [`../methodology.md`](../methodology.md)):
+### Remaining candidate reviews
 
-| # | Suggested review | Priority |
-|---|------------------|----------|
-| 01 | National Strategy for AI 2031 | High |
-| 02 | UAE Charter for the Development and Use of AI (Jun 2024) | High |
-| 03 | DIFC Regulation 10 — autonomous/semi-autonomous systems | High |
-| 04 | Dubai AI Principles, Ethics Guidelines and Self-Assessment Tool | Medium |
-| 05 | Dubai Universal Blueprint for AI | Medium |
-| 06 | Abu Dhabi AIATC (Law No. 3 of 2024) | Medium |
-| 07 | ADGM data-protection AI provisions | Medium |
-| 08 | CBUAE responsible AI guidance (financial services) | Medium |
+| # | Suggested review | Priority | Source held? |
+|---|------------------|----------|--------------|
+| 04 | Dubai AI Principles, Ethics Guidelines and Self-Assessment Tool | Medium | Yes |
+| 05 | Dubai Universal Blueprint for AI | Medium | Needs collection |
+| 06 | Abu Dhabi AIATC (Law No. 3 of 2024) | Medium | Needs collection |
+| 07 | ADGM data-protection AI provisions | Medium | Yes |
+| 08 | CBUAE responsible AI guidance (financial services) | Medium | Yes |
 
 ## Key features of the UAE landscape
 
