@@ -23,6 +23,12 @@ The Tribunal distinguished **closed-source AI tools** (it named Microsoft Copilo
 
 The Tribunal also treated supervisors as more culpable than the staff who directly used the AI tool, on the basis that the supervisor bears responsibility for the practice and training of those they supervise.
 
+### Terminology caveat (use precise framing downstream)
+
+The Tribunal's own words are "open source" and "closed source" (¶21, verbatim, with ChatGPT and Microsoft Copilot as the examples). That labelling is technically imprecise: ChatGPT is proprietary, and Copilot is proprietary too, so neither category is defined by whether the underlying model is open- or closed-source. The Tribunal itself signals the real test in the same passage (whether the tool "place[s] this information on the internet in the public domain") and elsewhere ties it to architecture and data handling, "not... branding."
+
+For downstream policy wording, use the operative axis, not the court's labels: **public / third-party-exposing** processing (inputs leave the client's control and may be retained or used for training) **versus private / ring-fenced / contractually-controlled** processing. Even an enterprise or "closed-source" tool is only safe if it is configured and contracted so inputs are not retained, exposed, or used for training. Do not reproduce the "open source / closed source" labels in client-facing overlays: cite Munir ¶21 for the holding, but frame the control test precisely.
+
 ### Why it matters for AI governance, not just for lawyers
 
 The case sits in the Tribunal's "Hamid" jurisdiction over legal representatives, but the underlying reasoning is **persuasive across regulated professional contexts** where confidentiality, privilege, or special-category data is in play. Read in combination with UK GDPR and ICO guidance on AI and data protection, the practical implications are:
@@ -37,7 +43,7 @@ The decision is a reported Upper Tribunal judgment within the Hamid supervisory 
 
 ### Policy implication
 
-AI policies and acceptable-use rules drafted before late 2025 typically do not address the public-vs-closed-source distinction with sufficient sharpness. Munir is the cleanest articulation in UK case law of why that distinction is material, and is the reference point we now use in policy generation downstream (see the Policy Wizard / Policy Scanner products in the `octonion-apps` workspace).
+AI policies and acceptable-use rules drafted before late 2025 typically do not address the public-exposure-versus-ring-fenced distinction with sufficient sharpness. Munir is the cleanest articulation in UK case law of why that distinction is material, and is the reference point we now use in policy generation downstream (see the Policy Wizard / Policy Scanner products in the `octonion-apps` workspace). Frame it using the operative control test, not the court's "open source / closed source" labels (see the terminology caveat above).
 
 ---
 
